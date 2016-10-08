@@ -35,6 +35,7 @@ master.csv is a programming file in [comma separated value](https://en.wikipedia
 * There are 3 bands of frequencies in the master.csv file, use a script or editor to select the band(s) you want
 * For Tri-band radios the 220 section needs to have "Location" adjusted or it will overwrite the prevous 2M locations.
 * There is a blank line comprised of a number of commas which separates the frequency bands that needs to be edited out.
+<<<<<<< HEAD
 
 #### Pretty Print
 * To produce a readable output from the csv file
@@ -54,3 +55,5 @@ csvtool col 1,3,4,2,15,7,6,14 master.csv | csvtool readable -
 |  3 |    146.7   |      |    CALL11 | N7JN | 141.3|  TSQL | SJCARS Callup
 |  5 |    145.25  |   -  |    RPT-12 | N7JN | 131.8|  TSQL | SJCARS D-Star Repeater (HVT)
 
+=======
+>>>>>>> origin/master
