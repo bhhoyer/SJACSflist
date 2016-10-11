@@ -8,7 +8,7 @@ San Juan County WA is a group of islands that operate multuple EMCOMM Stations a
 * Documentation shall be in Mark Down
 * Data files shall be in csv format
 * Scripts shall be in python
-* Chirp, available from http://chirp.danplanet.com/projects/chirp/wiki/Home will be used for test and verification
+* [Chirp](http://chirp.danplanet.com/projects/chirp/wiki/Home) will be used for test and verification
   * Chirp is written in python and uses csv files
 * Manufacturer specific formats will be on an as needed basis and archived
 
