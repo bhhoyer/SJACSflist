@@ -5,7 +5,7 @@ San Juan County WA is a group of islands that operate multuple EMCOMM Stations a
 
 ### Formats Used
 * All files associated with the project shall be in plain text
-* Documentation shall be in Mark Down
+* Documentation shall be in [Markdown](https://guides.github.com/features/mastering-markdown/)
 * Data files shall be in csv format
 * Scripts shall be in python
 * [Chirp](http://chirp.danplanet.com/projects/chirp/wiki/Home) will be used for test and verification
