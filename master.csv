@@ -72,7 +72,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 149,SURV41,444.925,+,5,Tone,100,100,23,NN,FM,25,,Survey Mt. (Can. ARES),VE7RWS,,
 150,BLYN41,442.1,+,5,Tone,100,100,23,NN,FM,25,,Blyn Mt. near Sequem,KC7EQO,,
 152,PT-ROB,443.3,+,5,Tone,100,100,23,NN,FM,25,,Pt. Roberts,KJ1U,,
-153,ITS-41,442.6,+,5,Tone,97.4,97.4,23,NN,FM,25,,"Van. I. Trunk Sys, BC,VE7RNA,,
+153,ITS-41,442.6,+,5,Tone,97.4,97.4,23,NN,FM,25,,"Van. I. Trunk Sys", BC,VE7RNA,,
 154,CULT41,444.625,+,5,Tone,103.5,103.5,23,NN,FM,25,,"Cultus Mt. east of Mt Vernon",NC7Q,,
 155,SICK41,444.925,+,5,Tone,127.3,127.3,23,NN,FM,25,,"Mt. Sicker, Duncan BC",,,
 250,CFIRE,155.1,,0,,88.5,88.5,23,NN,FM,5,,,,,
