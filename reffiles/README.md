@@ -8,6 +8,7 @@
 * Memories used 1 - 300
 * Index starts with 2M band
 * Index for 440 band starts at 101
+* Index for county frequencies starts at 250
 
 #### Dual Band HT
 
