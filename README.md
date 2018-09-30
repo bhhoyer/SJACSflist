@@ -15,14 +15,14 @@ San Juan County WA is a group of islands that operate multuple EMCOMM Stations a
 ### Radio Support
 The "Master to Radio" m2r.py script will read the master.csv file and generate radio.csv files for all supported radios. It is understood that radios may need manufacturer supported programming for initial configuration and changes not supported by Chirp.
 
-####White Box Radios
+#### White Box Radios
 * Kenwood TMV71 Dual Band Mobile
 * Alinco DR-135T,235T,435T Monoband Mobile
 
-####MERT Radios
+#### MERT Radios
 * Kenwood TM281 2m Mobile
 
-####User Radios
+#### User Radios
 * Kenwood THF6 Tri Band HT
 * Icom IC-92AD Dual Band HT w/D-STAR
 * Yaesu 8800 Dual Band Mobile
