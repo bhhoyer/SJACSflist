@@ -4,9 +4,9 @@
 |  2 | 146.100 | + | REV-11 |  | 131.8 | Tone | SJCARS Reverse |
 |  3 | 146.700 |   | DIR-11 |  | 131.8 | TSQL | SJCARS Direct (simplex) |
 |  4 | 146.700 |   | CALL11 | N7JN | 141.3 | TSQL | SJCARS Callup |
-|  5 | 145.250 | - | RPT-12 | N7JN | 131.8 | TSQL | SJCARS D-Star Repeater (HVT) |
-|  6 | 144.650 | + | REV-12 |  | 131.8 | Tone | SJCARS D-Star Reverse |
-|  7 | 145.250 |   | DIR-12 |  | 131.8 | TSQL | SJCARS D-Star simplex |
+|  5 | 145.250 | - | RPT-12 | N7JN | 88.5 |  | SJCARS D-Star Repeater (HVT) |
+|  6 | 144.650 | + | REV-12 |  | 88.5 |  | SJCARS D-Star Reverse |
+|  7 | 145.250 |   | DIR-12 |  | 88.5 |  | SJCARS D-Star simplex |
 |  10 | 146.520 |   | TAC-10 |  | 131.8 | Tone | National Simplex |
 |  11 | 144.310 |   | TAC-11 |  | 131.8 | Tone |  |
 |  12 | 146.500 |   | TAC-12 |  | 131.8 | Tone | NBFM repeater ch-8 output |
@@ -45,7 +45,7 @@
 |  62 | 448.450 | - | REV-41 | N7JN | 103.5 | Tone | SJCARS reverse |
 |  63 | 443.450 |   | DIR-41 |  | 103.5 | TSQL | SJCARS Direct (simplex) |
 |  64 | 442.4625 | + | RPT-42 | N7JN | 88.5 |  | D-Star Repeater |
-|  65 | 442.4625 | - | RPT-42 | N7JN | 88.5 |  | D-Star Repeater |
+|  65 | 442.4625 | - | REV-42 |  | 88.5 |  | D-Star Repeater |
 |  66 | 442.4625 |   | DIR-42 |  | 88.5 |  | D-Star Repeater |
 |  70 | 446.000 |   | TAC-40 |  | 156.7 | Tone | National Simplex |
 |  71 | 446.500 |   | TAC-41 |  | 156.7 | Tone |  |
@@ -105,3 +105,4 @@
   * SECOND NUMBER = CHANNEL NUMBER
     * EXAMPLE: TAC-40
     * TAC = Voice, 4 = 440 band, 0 = Nat. Simplex
+* OFS heading means offset of the repeater split and when set to off inhibits transmit.
