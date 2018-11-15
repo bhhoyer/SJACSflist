@@ -1,6 +1,7 @@
 ## Notes on lists for specific radios
 
 * All lists are derived from [master.csv](https://github.com/bhhoyer/SJACSflist/blob/master/master.csv)
+* [Markdown file frequency list](https://github.com/bhhoyer/SJACSflist/blob/master/reffiles/HTdualband.md) generated from HTdualband_noob.csv programming file.
 
 #### Kenwood TM-V71a
 
