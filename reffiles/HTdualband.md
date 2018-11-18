@@ -19,14 +19,14 @@
 |  19 | 146.480 |   | TAC-19 |  | 103.5 | Tone | Statewide Alternate*** |
 |  26 | 144.390 |   | APRS10 |  |   |  | 1200 baud APRS |
 |  27 | 144.350 |   | APRS11 |  |   |  | 9600 baud APRS |
-|  30 | 144.990 |   | NET-11 |  |   |  |  |
-|  31 | 144.950 |   | NET-12 |  |   |  |  |
-|  32 | 145.630 |   | NET-13 |  |   |  |  |
-|  33 | 145.690 |   | NET-14 |  |   |  | RMS Gate |
-|  34 | 144.970 |   | NET-15 |  |   |  |  |
-|  35 | 144.910 |   | NET-16 |  |   |  | RMS Gate N7NIX-10 |
-|  36 | 144.930 |   | NET-17 |  |   |  |  |
-|  37 | 145.610 |   | NET-18 |  |   |  |  |
+|  30 | 144.990 |   | NET-11 |  |   |  | AIRMAIL |
+|  31 | 144.950 |   | NET-12 |  |   |  | AIRMAIL |
+|  32 | 145.630 |   | NET-13 |  |   |  | AIRMAIL |
+|  33 | 145.690 |   | NET-14 |  |   |  | AIRMAIL |
+|  34 | 144.970 |   | NET-15 |  |   |  | AIRMAIL |
+|  35 | 144.910 |   | NET-16 |  |   |  | N7JN-11 Vusario, N7NIX-10, K7QHQ-10 (via DIGI) |
+|  36 | 144.930 |   | NET-17 |  |   |  | AIRMAIL |
+|  37 | 145.610 |   | NET-18 |  |   |  | AIRMAIL |
 |  38 | 145.090 |   | NET-19 |  |   |  |  |
 |  40 | 145.130 | - | ANGL11 | WF7W | 100.0 | Tone | Port Angeles |
 |  41 | 145.190 | - | LYMAN1 | N7GDE | 127.3 | Tone | Lyman Hill |
@@ -61,16 +61,16 @@
 |  84 | 439.950 |   | NET-44 |  |   |  |  |
 |  85 | 440.125 |   | NET-45 |  |   |  | RMS Gate K7KCA-10 |
 |  90 | 442.400 | + | BLAINE | W7UMH | 107.2 | Tone | Lyman Hill |
-|  91 | 442.800 | + | LYMN41 | N7NFY | 123.0 | Tone | BLYN |
+|  91 | 442.800 | + | BLYN41 | N7NFY | 123.0 | Tone | Sequim |
 |  92 | 443.750 | + | SQAL41 | WA7ZWG | 103.5 | Tone | Squalicum Mt. |
 |  93 | 444.050 | + | CONY41 | K7SKW | 103.5 | Tone | Mt. Constitution |
-|  94 | 444.300 | + | TIGR42 | WA7WKT | 103.5 | Tone | OPS-1 Alternate |
-|  95 | 444.500 | + | OPS-1 | WA7ZUS | 103.5 | Tone | OPS-1 Primary, Lyman |
+|  94 | 444.300 | + | TIGR42 | WA7WKT | 103.5 | Tone | Tiger Mt. |
+|  95 | 444.500 | + | LYMN41 | WA7ZUS | 103.5 | Tone | Lyman Hill |
 |  96 | 444.775 | + | PT-ANG | KJ7XE | 103.5 | Tone | Port Angeles |
 |  97 | 442.250 | + | LOOK42 | NC7Q | 156.7 | Tone | Hospital link to LOOK-21 |
 |  98 | 443.475 | + | LOPZ41 | KD7KAB | 77.0 | Tone | Lopez |
 |  99 | 444.925 | + | SURV41 | VE7RWS | 100.0 | Tone | Survey Mt. (Can. ARES) |
-|  100 | 442.100 | + | BLYN41 | KC7EQO | 100.0 | Tone | Blyn Mt. near Sequem |
+|  100 | 442.100 | + | BLYN41 | KC7EQO | 100.0 | Tone | Blyn Mt. near Sequim |
 |  102 | 443.300 | + | PT-ROB | KJ1U | 100.0 | Tone | Pt. Roberts |
 |  103 | 442.600 | + | ITS-41 | VE7RNA | 97.4 | Tone | Van. I. Trunk Sys, BC |
 |  104 | 444.625 | + | CULT41 | NC7Q | 103.5 | Tone | Cultus Mt. east of Mt Vernon |
