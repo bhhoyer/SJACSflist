@@ -69,7 +69,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 97,LOOK42,442.25,+,5,Tone,156.7,156.7,23,NN,FM,25,,Hospital link to LOOK-21,NC7Q,,
 98,LOPZ41,443.475,+,5,Tone,77,77,23,NN,FM,25,,Lopez,KD7KAB,,
 99,SURV41,444.925,+,5,Tone,100,100,23,NN,FM,25,,Survey Mt. (Can. ARES),VE7RWS,,
-100,BLYN41,442.1,+,5,Tone,100,100,23,NN,FM,25,,Blyn Mt. near Sequem,KC7EQO,,
+100,BLYN41,442.1,+,5,Tone,100,100,23,NN,FM,25,,Blyn Mt. near Sequim,KC7EQO,,
 102,PT-ROB,443.3,+,5,Tone,100,100,23,NN,FM,25,,Pt. Roberts,KJ1U,,
 103,ITS-41,442.6,+,5,Tone,97.4,97.4,23,NN,FM,25,,"Van. I. Trunk Sys, BC",VE7RNA,,
 104,CULT41,444.625,+,5,Tone,103.5,103.5,23,NN,FM,25,,"Cultus Mt. east of Mt Vernon",NC7Q,,
