@@ -1,4 +1,4 @@
-SAN JUAN COUNTY FREQUENCY LIST NOV. 14, 2017
+SAN JUAN COUNTY FREQUENCY LIST NOV. 17, 2018
 
 VHF FREQUENCIES
    FREQ   OFS ID      CALL   TONE     PL    QTH/NOTES
@@ -24,9 +24,9 @@ VHF FREQUENCIES
 30 144.990   NET-11                         AIRMAIL
 31 144.950   NET-12                         AIRMAIL
 32 145.630   NET-13                         AIRMAIL
-33 145.690   NET-14                         RMS GATE N7NIX-10
+33 145.690   NET-14                         AIRMAIL
 34 144.970   NET-15                         AIRMAIL
-35 144.910   NET-16                         AIRMAIL
+35 144.910   NET-16                         N7JN-11 Vusario, N7NIX-10, K7QHQ-10 (via DIGI)
 36 144.930   NET-17                         AIRMAIL
 37 145.610   NET-18                         AIRMAIL
 
@@ -57,7 +57,7 @@ VHF FREQUENCIES
 15 223.420   TAC-25          PL-103.5 TX    STATEWIDE PRIMARY
 16 223.440   TAC-26          PL-103.5 TX    STATEWIDE ALTERNATE
 
-30 223.780   NET-21                         RMS GATE DIGI/N7JN-10/KF7FIT-10
+30 223.780   NET-21                         N7JN-11 Vusario, RMS GATE KF7FIT-10
 31 223.660   NET-22                         AIRMAIL
 32 223.400   NET-23                         AIRMAIL
 33 223.620   NET-24                         AIRMAIL
@@ -107,16 +107,16 @@ UHF FREQUENCIES
 135 440.125   NET-45                        RMS GATE K7KCA-10
 
 140 442.400 + BLAINE  W7UMH  PL-107.2 TX    Lyman Hill
-141 442.800 + LYMN41  N7NFY  PL-123.0 TX    BLYN
+141 442.800 + BLYN41  N7NFY  PL-123.0 TX    Sequim
 142 443.750 + SQAL41  WA7ZWG PL-103.5 TX    Squalicum Mt.
 143 444.050 + CONY41  K7SKW  PL-103.5 TX    Mt. Constitution
-144 444.300 + TIGR42  WA7WKT PL-103.5 TX    OP'S-1 ALTERNATE
-145 444.500 + OPS-1   WA7ZUS PL-103.5 TX    OPS-1 PRIMARY, LYMAN
+144 444.300 + TIGR42  WA7WKT PL-103.5 TX    Tiger Mt.
+145 444.500 + LYMN41  WA7ZUS PL-103.5 TX    Lyman Hill
 146 444.775 + ANGL41  KJ7XE  PL-103.5 TX    Port Angeles
 147 442.250 + LOOK42  NC7Q   PL-156.7 TX    Hospital link to LOOK-21
 148 443.475 + LOPZ41  KD7KAB PL-077.0 TX    Lopez
 149 444.925 + SURV41  VE7RWS PL-100.0 TX    Survey Mt. (Canadian ARES)
-150 442.100 + BLYN41  KC7EQO PL-100.0 TX    Blyn Mt. (near Sequem)
+150 442.100 + BLYN41  KC7EQO PL-100.0 TX    Blyn Mt. (near Sequim)
 151
 152 443.300 + PT-ROB  KJ1U   PL-100.0 TX    Point Roberts
 153 442.600 + ITS-41  VE7RNA PL-141.3 TX    Vancouver I. Trunk System, BC
