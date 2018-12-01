@@ -75,21 +75,21 @@
 |  153 | 442.600 | + | ITS-41 | VE7RNA | 97.4 | Tone | Van. I. Trunk Sys, BC |
 |  154 | 444.625 | + | CULT41 | NC7Q | 103.5 | Tone | Cultus Mt. east of Mt Vernon |
 |  155 | 444.925 | + | SICK41 |  | 127.3 | Tone | Mt. Sicker, Duncan BC |
-|  250 | 155.100 | off | CFIRE |  |   |  |  |
-|  251 | 155.280 | off | SJAID |  |   |  |  |
+|  250 | 155.100 |   | CFIRE |  |   |  |  |
+|  251 | 155.280 |   | SJAID |  |   |  |  |
 |  252 | 154.160 |   | SJTAC3 |  |   |  |  |
 |  253 | 154.385 |   | SJTAC4 |  |   |  |  |
-|  254 | 156.385 | off | OSCAR |  |   |  |  |
-|  255 | 151.415 | off | DNR |  |   |  |  |
-|  256 | 154.205 | off | ORFIRE |  |   |  |  |
-|  257 | 153.830 | off | REDNET |  |   |  |  |
-|  258 | 155.295 | off | AIRNW |  |   |  |  |
-|  259 | 463.050 | off | AIRNW3 |  |   |  |  |
-|  260 | 453.250 | off | SJCOPS |  |   |  |  |
+|  254 | 156.385 |   | OSCAR |  |   |  |  |
+|  255 | 151.415 |   | DNR |  |   |  |  |
+|  256 | 154.205 |   | ORFIRE |  |   |  |  |
+|  257 | 153.830 |   | REDNET |  |   |  |  |
+|  258 | 155.295 |   | AIRNW |  |   |  |  |
+|  259 | 463.050 |   | AIRNW3 |  |   |  |  |
+|  260 | 453.250 |   | SJCOPS |  |   |  |  |
 |  261 | 156.800 |   | MAR16 |  |   |  | Inter. Distress, Safety & Calling |
-|  262 | 162.475 | off | WX03 |  |   |  |  |
-|  263 | 162.425 | off | WX04 |  |   |  |  |
-|  300 | 151.040 | off | FERRY |  |   |  |  |
+|  262 | 162.475 |   | WX03 |  |   |  |  |
+|  263 | 162.425 |   | WX04 |  |   |  |  |
+|  300 | 151.040 |   | FERRY |  |   |  |  |
 
 ```
 * CS = Carrier Squelch (no tone)
