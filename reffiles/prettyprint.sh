@@ -1,7 +1,13 @@
 #!/bin/bash
 
-infile_name="HTdualband_noob"
-outfile_name="HTdualband"
+# Check for any command line arguments
+if (( $# > 0 )) ; then
+    infile_name="HTdualband_noob"
+    outfile_name="HTdualband"
+else
+    infile_name="Kenwood_TM-V71A"
+    outfile_name="KW_TMV71A"
+fi
 
 outfile_tmp="${outfile_name}_tmp.csv"
 mdfile_tmp=${outfile_name}_tmp.md
