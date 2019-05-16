@@ -1,8 +1,11 @@
-SAN JUAN COUNTY FREQUENCY LIST NOV. 17, 2018
+190505 REVISION NOTES
+IC-706 HF frequency list added.
+
+SAN JUAN COUNTY FREQUENCY LIST April 5, 2019.
 
 VHF FREQUENCIES
    FREQ   OFS ID      CALL   TONE     PL    QTH/NOTES
- 1 146.700 - RPT-11   N7JN   PL-131.8 TX-RX SJCARS REPEATER (Cady Mt.)
+ 1 146.700 - CADY11   N7JN   PL-131.8 TX-RX SJCARS REPEATER (Cady Mt.)
  2 146.100 + REV-11          PL-131.8 TX    SJCARS REVERSE
  3 146.700   DIR-11          PL-131.8 TX-RX SJCARS DIRECT (SIMPLEX)
  4 146.700   CALL11          PL-141.3 TX-RX SJCARS CALLUP
@@ -42,11 +45,11 @@ VHF FREQUENCIES
 59 145.150 - PT-TOW   W7JCR  PL-114.8       Port Townsend
 60 145.430 - ITS-11   VA7DGA PL-141.3       Vancouver I. Trunk System, Nanaimo, BC
 61 146.680 - ITS-12   VE7RNA PL-141.3       Vancouver I. Trunk System, Chemainus, BC
-
+62 147.140 + BALD11   K7EK   PL-123.0       Baldi Mt.
 
 220 MHZ FREQUENCIES
    FREQ   OFS ID      CALL   TONE     PL    QTH/NOTES
- 1 224.480 - RPT-21   N7JN   PL-103.5 TX-RX Mt. Constitution Repeater
+ 1 224.480 - CONI21   N7JN   PL-103.5 TX-RX Mt. Constitution Repeater
  2 222.880 + REV-21          PL-103.5 TX    REVERSE
  3 224.480   DIR-21          PL-103.5 TX-RX DIRECT (SIMPLEX)
 10 223.500   TAC-20          PL-67    TX    NATIONAL SIMPLEX
@@ -64,7 +67,7 @@ VHF FREQUENCIES
 
 50 223.860 - MED-21   W7MBY  PL-103.5 TX    Hospital net repeater
 51 224.120 - TIGR-MT  K7LED  PL-103.5 TX    Tiger Mt.
-52 224.240 - BLYN     N7NFY  PL-103.5 TX    Blyn (near Sequim)
+52 224.240 - BLYN     N7NFY  PL-103.5 TX    Haystack (was Blyn)
 53 224.300 - VANCUVR  VE7RPT CS *           Vancouver BC
 54 224.500 - VICTRIA  VE7RGP CS *           Victoria BC
 55 224.600 - BRNBY21  VE7NYE PL-127.3 TX    Burnaby BC
@@ -86,7 +89,7 @@ VHF FREQUENCIES
 
 UHF FREQUENCIES
     FREQ   OFS ID     CALL   TONE PL        QTH/NOTES
-101 443.450 + RPT-41  N7JN   PL-103.5 TX-RX SJCARS REPEATER
+101 443.450 + CADY41  N7JN   PL-103.5 TX-RX SJCARS REPEATER
 102 448.450 - REV-41         PL-103.5 TX    REVERSE
 103 443.450   DIR-41         PL-103.5 TX-RX DIRECT (SIMPLEX)
 104 442.4625+ RPT-42  N7JN                  D-STAR (Hillview Terrace)
@@ -116,11 +119,28 @@ UHF FREQUENCIES
 147 442.250 + LOOK42  NC7Q   PL-156.7 TX    Hospital link to LOOK-21
 148 443.475 + LOPZ41  KD7KAB PL-077.0 TX    Lopez
 149 444.925 + SURV41  VE7RWS PL-100.0 TX    Survey Mt. (Canadian ARES)
-150 442.100 + BLYN41  KC7EQO PL-100.0 TX    Blyn Mt. (near Sequim)
+150 442.100 + BLYN41  KC7EQO PL-100.0 TX    Blyn Mt. (near Sequem)
 151
 152 443.300 + PT-ROB  KJ1U   PL-100.0 TX    Point Roberts
 153 442.600 + ITS-41  VE7RNA PL-141.3 TX    Vancouver I. Trunk System, BC
 154 444.625 + CULT41  NC7Q   PL-103.5 TX    Cultis Mt.
+
+WHITE BOX IC-706 HF MEMORY CHANNEL LIST
+  1.	3985.0  LSB     WA . STATE EMERGENCY NET (WSEN)
+  2.	5371.5	USB		"    "       "     "
+  3.	7245.0	LSB             "    "	     "	   "
+  4.	3944.0	LSB	SJCARS NET
+  5.
+  6.
+  7.
+  8.	3596.5 LSB	Pactor AirMail
+  9.
+ 10.
+ 11.	5330.5	USB	F-1	USB 100W ERP max.
+ 12.	5346.5	USB	F-2		"
+ 13.	5366.5	USB	F-3		"
+ 14.	5371.5	USB	F-4		"	WA. STATE NET (WSEN)
+ 15.	5403.5	USB	F-5		"
 
 
 * CS = Carrier Squelch (no tone)
@@ -139,4 +159,4 @@ EXAMPLE: TAC-40
      TAC = Voice, 4 = 440 band, 0 = Nat. Simplex
 
 
-181117 -mpg
+190505 -mpg

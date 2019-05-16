@@ -1,6 +1,6 @@
 | Loc|Freq|OFS|ID|Call|Tone|PL|Comment |
 | --- | ---- | :---: | ---| :---:| -- | ---| -------  |
-|  1 | 146.700 | - | RPT-11 | N7JN | 131.8 | TSQL | SJCARS Repeater Cady Mt. |
+|  1 | 146.700 | - | CADY11 | N7JN | 131.8 | TSQL | SJCARS Repeater Cady Mt. |
 |  2 | 146.100 | + | REV-11 |  | 131.8 | Tone | SJCARS Reverse |
 |  3 | 146.700 |   | DIR-11 |  | 131.8 | TSQL | SJCARS Direct (simplex) |
 |  4 | 146.700 |   | CALL11 | N7JN | 141.3 | TSQL | SJCARS Callup |
@@ -27,7 +27,12 @@
 |  35 | 144.910 |   | NET-16 |  |   |  | N7JN-11 Vusario, N7NIX-10, K7QHQ-10 (via DIGI) |
 |  36 | 144.930 |   | NET-17 |  |   |  | AIRMAIL |
 |  37 | 145.610 |   | NET-18 |  |   |  | AIRMAIL |
-|  38 | 145.090 |   | NET-19 |  |   |  |  |
+|  38 | 144.430 |   | NET110 |  |   |  |  |
+|  39 | 145.010 |   | NET111 |  |   |  |  |
+|  40 | 145.030 |   | NET112 |  |   |  |  |
+|  41 | 145.050 |   | NET113 |  |   |  |  |
+|  42 | 145.070 |   | NET114 |  |   |  |  |
+|  43 | 145.090 |   | NET115 |  |   |  |  |
 |  50 | 145.130 | - | ANGL11 | WF7W | 100.0 | Tone | Port Angeles |
 |  51 | 145.190 | - | LYMAN1 | N7GDE | 127.3 | Tone | Lyman Hill |
 |  52 | 145.230 | - | SUMAS1 | W7BPD | 103.5 | Tone | Sumas Mt. |
@@ -40,8 +45,10 @@
 |  59 | 145.150 | - | PT-TOW | W7JCR | 114.8 | Tone | Port Townsend, Morgan Hill |
 |  60 | 145.430 | - | ITS-11 | VA7DGA | 141.3 | Tone | Van. I. Trunk System, Nanaimo, BC |
 |  61 | 146.680 | - | ITS-12 | VE7RNA | 141.3 | Tone | Van. I. Trunk System, Chemainus, BC |
-|  62 | 145.470 | - | SICK11 | VE7RVC | 127.3 | Tone | Duncan, Mt. Sicker |
-|  101 | 443.450 | + | RPT-41 | N7JN | 103.5 | TSQL | SJCARS Repeater |
+|  62 | 147.140 | - | BALD11 | K7EK | 123.0 | Tone | Baldi Mt |
+|  63 | 145.470 | - | SICK11 | VE7RVC | 127.3 | Tone | Duncan, Mt. Sicker |
+|  100 | 144.000 |   | 051419 | N0NE | 88.5 |  | Revision date |
+|  101 | 443.450 | + | CADY41 | N7JN | 103.5 | TSQL | SJCARS Repeater |
 |  102 | 448.450 | - | REV-41 | N7JN | 103.5 | Tone | SJCARS reverse |
 |  103 | 443.450 |   | DIR-41 |  | 103.5 | TSQL | SJCARS Direct (simplex) |
 |  104 | 442.4625 | + | RPT-42 | N7JN | 88.5 |  | D-Star Repeater |
@@ -60,6 +67,7 @@
 |  133 | 439.900 |   | NET-43 |  |   |  |  |
 |  134 | 439.950 |   | NET-44 |  |   |  |  |
 |  135 | 440.125 |   | NET-45 |  |   |  | RMS Gate K7KCA-10 |
+|  136 | 440.950 |   | NET-46 |  |   |  |  |
 |  140 | 442.400 | + | BLAINE | W7UMH | 107.2 | Tone | Lyman Hill |
 |  141 | 442.800 | + | BLYN41 | N7NFY | 123.0 | Tone | Sequim |
 |  142 | 443.750 | + | SQAL41 | WA7ZWG | 103.5 | Tone | Squalicum Mt. |

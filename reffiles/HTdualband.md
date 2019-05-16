@@ -1,6 +1,6 @@
 | Loc|Freq|OFS|ID|Call|Tone|PL|Comment |
 | --- | ---- | :---: | ---| :---:| -- | ---| -------  |
-|  1 | 146.700 | - | RPT-11 | N7JN | 131.8 | TSQL | SJCARS Repeater Cady Mt. |
+|  1 | 146.700 | - | CADY11 | N7JN | 131.8 | TSQL | SJCARS Repeater Cady Mt. |
 |  2 | 146.100 | + | REV-11 |  | 131.8 | Tone | SJCARS Reverse |
 |  3 | 146.700 |   | DIR-11 |  | 131.8 | TSQL | SJCARS Direct (simplex) |
 |  4 | 146.700 |   | CALL11 | N7JN | 141.3 | TSQL | SJCARS Callup |
@@ -40,7 +40,8 @@
 |  49 | 145.150 | - | PT-TOW | W7JCR | 114.8 | Tone | Port Townsend, Morgan Hill |
 |  50 | 145.430 | - | ITS-11 | VA7DGA | 141.3 | Tone | Van. I. Trunk System, Nanaimo, BC |
 |  51 | 146.680 | - | ITS-12 | VE7RNA | 141.3 | Tone | Van. I. Trunk System, Chemainus, BC |
-|  52 | 145.470 | - | SICK11 | VE7RVC | 127.3 | Tone | Duncan, Mt. Sicker |
+|  52 | 147.140 | - | BALD11 | K7EK | 123.0 | Tone | Baldi Mt |
+|  53 | 145.470 | - | SICK11 | VE7RVC | 127.3 | Tone | Duncan, Mt. Sicker |
 |  61 | 443.450 | + | RPT-41 | N7JN | 103.5 | TSQL | SJCARS Repeater |
 |  62 | 448.450 | - | REV-41 | N7JN | 103.5 | Tone | SJCARS reverse |
 |  63 | 443.450 |   | DIR-41 |  | 103.5 | TSQL | SJCARS Direct (simplex) |
@@ -70,7 +71,8 @@
 |  97 | 442.250 | + | LOOK42 | NC7Q | 156.7 | Tone | Hospital link to LOOK-21 |
 |  98 | 443.475 | + | LOPZ41 | KD7KAB | 77.0 | Tone | Lopez |
 |  99 | 444.925 | + | SURV41 | VE7RWS | 100.0 | Tone | Survey Mt. (Can. ARES) |
-|  100 | 442.100 | + | BLYN41 | KC7EQO | 100.0 | Tone | Blyn Mt. near Sequim |
+|  100 | 430.000 |   | 051419 | N0NE | 88.5 |  | Revision date |
+|  101 | 442.100 | + | BLYN41 | KC7EQO | 100.0 | Tone | Blyn Mt. near Sequim |
 |  102 | 443.300 | + | PT-ROB | KJ1U | 100.0 | Tone | Pt. Roberts |
 |  103 | 442.600 | + | ITS-41 | VE7RNA | 97.4 | Tone | Van. I. Trunk Sys, BC |
 |  104 | 444.625 | + | CULT41 | NC7Q | 103.5 | Tone | Cultus Mt. east of Mt Vernon |
