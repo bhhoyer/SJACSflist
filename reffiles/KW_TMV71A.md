@@ -27,12 +27,6 @@
 |  35 | 144.910 |   | NET-16 |  |   |  | N7JN-11 Vusario, N7NIX-10, K7QHQ-10 (via DIGI) |
 |  36 | 144.930 |   | NET-17 |  |   |  | AIRMAIL |
 |  37 | 145.610 |   | NET-18 |  |   |  | AIRMAIL |
-|  38 | 144.430 |   | NET110 |  |   |  |  |
-|  39 | 145.010 |   | NET111 |  |   |  |  |
-|  40 | 145.030 |   | NET112 |  |   |  |  |
-|  41 | 145.050 |   | NET113 |  |   |  |  |
-|  42 | 145.070 |   | NET114 |  |   |  |  |
-|  43 | 145.090 |   | NET115 |  |   |  |  |
 |  50 | 145.130 | - | ANGL11 | WF7W | 100.0 | Tone | Port Angeles |
 |  51 | 145.190 | - | LYMAN1 | N7GDE | 127.3 | Tone | Lyman Hill |
 |  52 | 145.230 | - | SUMAS1 | W7BPD | 103.5 | Tone | Sumas Mt. |
@@ -67,7 +61,6 @@
 |  133 | 439.900 |   | NET-43 |  |   |  |  |
 |  134 | 439.950 |   | NET-44 |  |   |  |  |
 |  135 | 440.125 |   | NET-45 |  |   |  | RMS Gate K7KCA-10 |
-|  136 | 440.950 |   | NET-46 |  |   |  |  |
 |  140 | 442.400 | + | BLAINE | W7UMH | 107.2 | Tone | Lyman Hill |
 |  141 | 442.800 | + | BLYN41 | N7NFY | 123.0 | Tone | Sequim |
 |  142 | 443.750 | + | SQAL41 | WA7ZWG | 103.5 | Tone | Squalicum Mt. |
