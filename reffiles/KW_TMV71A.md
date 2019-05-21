@@ -61,6 +61,7 @@
 |  133 | 439.900 |   | NET-43 |  |   |  |  |
 |  134 | 439.950 |   | NET-44 |  |   |  |  |
 |  135 | 440.125 |   | NET-45 |  |   |  | RMS Gate K7KCA-10 |
+|  136 | 440.950 |   | NET-46 |  |   |  |  |
 |  140 | 442.400 | + | BLAINE | W7UMH | 107.2 | Tone | Lyman Hill |
 |  141 | 442.800 | + | BLYN41 | N7NFY | 123.0 | Tone | Sequim |
 |  142 | 443.750 | + | SQAL41 | WA7ZWG | 103.5 | Tone | Squalicum Mt. |
