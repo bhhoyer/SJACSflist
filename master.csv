@@ -61,6 +61,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 133,NET-43,439.9,,0,,88.5,88.5,23,NN,FM,25,S,,,,
 134,NET-44,439.95,,0,,88.5,88.5,23,NN,FM,25,S,,,,
 135,NET-45,440.125,,0,,88.5,88.5,23,NN,FM,25,S,RMS Gate K7KCA-10,,,
+136,NET-46,440.95,,0,,88.5,88.5,23,NN,FM,25,S,,,,
 140,BLAINE,442.4,+,5,Tone,107.2,107.2,23,NN,FM,25,,Lyman Hill,W7UMH,,
 141,BLYN41,442.8,+,5,Tone,123,123,23,NN,FM,25,,Sequim,N7NFY,,
 142,SQAL41,443.75,+,5,Tone,103.5,103.5,23,NN,FM,25,,Squalicum Mt.,WA7ZWG,,
