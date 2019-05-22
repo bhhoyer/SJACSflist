@@ -27,13 +27,12 @@
 |  35 | 144.910 |   | NET-16 |  |   |  | N7JN-11 Vusario, N7NIX-10, K7QHQ-10 (via DIGI) |
 |  36 | 144.930 |   | NET-17 |  |   |  | AIRMAIL |
 |  37 | 145.610 |   | NET-18 |  |   |  | AIRMAIL |
-|  38 | 145.090 |   | NET-19 |  |   |  |  |
 |  40 | 145.130 | - | ANGL11 | WF7W | 100.0 | Tone | Port Angeles |
 |  41 | 145.190 | - | LYMAN1 | N7GDE | 127.3 | Tone | Lyman Hill |
 |  42 | 145.230 | - | SUMAS1 | W7BPD | 103.5 | Tone | Sumas Mt. |
 |  43 | 146.620 | - | GOLD11 | WW7RA | 103.5 | Tone | Gold Mt. Unusable (Cdn 146.61/110.9) |
 |  44 | 146.740 | - | CONY11 | K7SKW | 103.5 | Tone | Mt. Constitution |
-|  45 | 146.900 | - | WH-ROK | VE7RWR | 127.3 | Tone | White Rock, BC |
+|  45 | 146.900 | - | WH-ROK | VE7RWR | 91.5 | Tone | White Rock, BC |
 |  46 | 146.860 | - | OAK-HB | W7AVM | 127.3 | Tone | Oak Harbor |
 |  47 | 146.920 | - | GRANIT | WA7DEM | 123.0 | Tone | Granite Falls |
 |  48 | 147.160 | + | KING | K7SKW | 103.5 | Tone | King Mt. IRLP-3276 |
@@ -74,7 +73,7 @@
 |  100 | 430.000 |   | 051419 | N0NE | 88.5 |  | Revision date |
 |  101 | 442.100 | + | BLYN41 | KC7EQO | 100.0 | Tone | Blyn Mt. near Sequim |
 |  102 | 443.300 | + | PT-ROB | KJ1U | 100.0 | Tone | Pt. Roberts |
-|  103 | 442.600 | + | ITS-41 | VE7RNA | 97.4 | Tone | Van. I. Trunk Sys, BC |
+|  103 | 442.600 | + | ITS-41 | VE7RNA | 141.3 | Tone | Van. I. Trunk Sys, BC |
 |  104 | 444.625 | + | CULT41 | NC7Q | 103.5 | Tone | Cultus Mt. east of Mt Vernon |
 |  105 | 444.925 | + | SICK41 |  | 127.3 | Tone | Mt. Sicker, Duncan BC |
 |  110 | 155.100 | off | CFIRE |  |   |  |  |
@@ -85,7 +84,7 @@
 |  115 | 151.415 | off | DNR |  |   |  |  |
 |  116 | 154.205 | off | ORFIRE |  |   |  |  |
 |  117 | 153.830 | off | REDNET |  |   |  |  |
-|  118 | 155.295 | off | AIRNW |  |   |  |  |
+|  118 | 468.000 |   | MED1IN |  |   |  |  |
 |  119 | 463.050 | off | AIRNW3 |  |   |  |  |
 |  120 | 453.250 | off | SJCOPS |  |   |  |  |
 |  121 | 156.800 | off | MAR16 |  |   |  | Inter. Distress, Safety & Calling |

@@ -32,7 +32,7 @@
 |  52 | 145.230 | - | SUMAS1 | W7BPD | 103.5 | Tone | Sumas Mt. |
 |  53 | 146.620 | - | GOLD11 | WW7RA | 103.5 | Tone | Gold Mt. Unusable (Cdn 146.61/110.9) |
 |  54 | 146.740 | - | CONY11 | K7SKW | 103.5 | Tone | Mt. Constitution |
-|  55 | 146.900 | - | WH-ROK | VE7RWR | 127.3 | Tone | White Rock, BC |
+|  55 | 146.900 | - | WH-ROK | VE7RWR | 91.5 | Tone | White Rock, BC |
 |  56 | 146.860 | - | OAK-HB | W7AVM | 127.3 | Tone | Oak Harbor |
 |  57 | 146.920 | - | GRANIT | WA7DEM | 123.0 | Tone | Granite Falls |
 |  58 | 147.160 | + | KING | K7SKW | 103.5 | Tone | King Mt. IRLP-3276 |
@@ -74,7 +74,7 @@
 |  149 | 444.925 | + | SURV41 | VE7RWS | 100.0 | Tone | Survey Mt. (Can. ARES) |
 |  150 | 442.100 | + | BLYN41 | KC7EQO | 100.0 | Tone | Blyn Mt. near Sequim |
 |  152 | 443.300 | + | PT-ROB | KJ1U | 100.0 | Tone | Pt. Roberts |
-|  153 | 442.600 | + | ITS-41 | VE7RNA | 97.4 | Tone | Van. I. Trunk Sys, BC |
+|  153 | 442.600 | + | ITS-41 | VE7RNA | 141.3 | Tone | Van. I. Trunk Sys, BC |
 |  154 | 444.625 | + | CULT41 | NC7Q | 103.5 | Tone | Cultus Mt. east of Mt Vernon |
 |  155 | 444.925 | + | SICK41 |  | 127.3 | Tone | Mt. Sicker, Duncan BC |
 |  250 | 155.100 |   | CFIRE |  |   |  |  |
@@ -85,7 +85,7 @@
 |  255 | 151.415 |   | DNR |  |   |  |  |
 |  256 | 154.205 |   | ORFIRE |  |   |  |  |
 |  257 | 153.830 |   | REDNET |  |   |  |  |
-|  258 | 155.295 |   | AIRNW |  |   |  |  |
+|  258 | 468.000 |   | MED1IN |  |   |  |  |
 |  259 | 463.050 |   | AIRNW3 |  |   |  |  |
 |  260 | 453.250 |   | SJCOPS |  |   |  |  |
 |  261 | 156.800 |   | MAR16 |  |   |  | Inter. Distress, Safety & Calling |
