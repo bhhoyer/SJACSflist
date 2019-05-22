@@ -38,7 +38,6 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 59,PT-TOW,145.15,-,0.6,Tone,114.8,114.8,23,NN,FM,5,,"Port Townsend, Morgan Hill",W7JCR,,
 60,ITS-11,145.43,-,0.6,Tone,141.3,141.3,23,NN,FM,5,,"Van. I. Trunk System, Nanaimo, BC",VA7DGA,,
 61,ITS-12,146.68,-,0.6,Tone,141.3,141.3,23,NN,FM,5,,"Van. I. Trunk System, Chemainus, BC",VE7RNA,,
-62,BALD11,147.14,-,0.6,Tone,123.0,123.0,23,NN,FM,5,,"Baldi Mt",K7EK,,
 63,SICK11,145.47,-,0.6,Tone,127.3,127.3,23,NN,FM,5,,"Duncan, Mt. Sicker",VE7RVC,,
 100,051419,144.0,,0,,88.5,88.5,23,NN,FM,5,S,"Revision date",N0NE,,
 ,,,,,,,,,,,,,,,,

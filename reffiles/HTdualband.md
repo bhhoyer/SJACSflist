@@ -39,7 +39,6 @@
 |  49 | 145.150 | - | PT-TOW | W7JCR | 114.8 | Tone | Port Townsend, Morgan Hill |
 |  50 | 145.430 | - | ITS-11 | VA7DGA | 141.3 | Tone | Van. I. Trunk System, Nanaimo, BC |
 |  51 | 146.680 | - | ITS-12 | VE7RNA | 141.3 | Tone | Van. I. Trunk System, Chemainus, BC |
-|  52 | 147.140 | - | BALD11 | K7EK | 123.0 | Tone | Baldi Mt |
 |  53 | 145.470 | - | SICK11 | VE7RVC | 127.3 | Tone | Duncan, Mt. Sicker |
 |  61 | 443.450 | + | RPT-41 | N7JN | 103.5 | TSQL | SJCARS Repeater |
 |  62 | 448.450 | - | REV-41 | N7JN | 103.5 | Tone | SJCARS reverse |
