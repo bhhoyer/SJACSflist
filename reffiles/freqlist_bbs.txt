@@ -145,5 +145,3 @@ FIRST NUMBER = BAND (eg 1 = 144, 2 = 220, 4 = 440) This helps eliminate confusio
 SECOND NUMBER = CHANNEL NUMBER
 EXAMPLE: TAC-40
      TAC = Voice, 4 = 440 band, 0 = Nat. Simplex
-
-190505 -mpg
