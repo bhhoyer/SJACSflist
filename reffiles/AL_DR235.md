@@ -10,10 +10,10 @@
 |  14 | 224.0000 |   | TAC-24 |  | 67.0 | Tone |  |
 |  15 | 223.4200 |   | TAC-25 |  | 103.5 | Tone | Statewide Primary |
 |  16 | 223.4400 |   | TAC-26 |  | 103.5 | Tone | Statewide Alternate |
-|  30 | 223.7800 |   | NET-21 |  | 67.0 |  | N7JN Vusario, RMS Gate KF7FIT-10 |
-|  31 | 223.6600 |   | NET-22 |  | 103.5 |  | Airmail |
-|  32 | 223.4000 |   | NET-23 |  | 103.5 |  | Airmail |
-|  33 | 223.6200 |   | NET-24 |  | 103.5 |  | Airmail |
+|  30 | 223.7800 |   | NET-21 |  |   |  | N7JN Vusario, RMS Gate KF7FIT-10 |
+|  31 | 223.6600 |   | NET-22 |  |   |  | Airmail |
+|  32 | 223.4000 |   | NET-23 |  |   |  | Airmail |
+|  33 | 223.6200 |   | NET-24 |  |   |  | Airmail |
 |  50 | 223.8600 | - | MED-21 | W7MBY | 103.5 | Tone | Hospital Net repeater |
 |  51 | 224.1200 | - | TIGR-MT | K7LED | 103.5 | Tone | Tiger Mt. |
 |  52 | 224.2400 | - | BLYN | N7NFY | 103.5 | Tone | Haystack (was Blyn) |
