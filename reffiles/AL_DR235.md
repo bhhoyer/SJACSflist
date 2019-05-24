@@ -32,7 +32,7 @@
 |  67 | 223.8800 | - | CAMNO | W7PIG | 103.5 | Tone | Camano Island |
 |  68 | 224.3800 | - | SMOKY21 | VA7DEM | 103.5 | Tone | Smokey Point |
 |  69 | 223.9600 | - | SUREY22 | VE7RHC | 100.0 | Tone | Surrey, BC |
-|  100 | 222.000 |   | 052419 | N0NE | 88.5 |  | Revision date |
+|  99 | 222.000 |   | 052419 | N0NE | 88.5 |  | Revision date |
 
 ```
 * CS = Carrier Squelch (no tone)
