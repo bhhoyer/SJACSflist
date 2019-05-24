@@ -21,7 +21,6 @@
 |  54 | 224.5000 | - | VICTRIA | VE7RGP | 127.3 |  | Victoria, BC |
 |  55 | 224.6000 | - | BRNBY21 | VE7NYE | 127.3 | Tone | Burnaby, BC |
 |  56 | 224.6600 | - | GOLD-21 | NI7IPB | 103.5 | Tone | Gold Mt. |
-|  57 | 0.000 |   |  |  | 0.0 |  |  |
 |  58 | 224.8600 | - | KING-21 | N7FYU | 103.5 | Tone | King Mt. |
 |  59 | 224.8800 | - | MAPLRIG | VE7RMR | 103.5 |  | Maple Ridge, BC |
 |  60 | 224.9200 | - | SUREY21 | VE7IFI | 103.5 |  | Coquitlem, BC |
@@ -30,10 +29,10 @@
 |  63 | 224.1600 | - | LOOK-21 | NC7Q | 156.7 | Tone | Hospital link to LOOK-42 |
 |  64 | 224.7800 | - | LYMN-21 | N7RIG | 103.5 | Tone | Lyman Hill, link to WETNET |
 |  65 | 224.5800 | - | HAYSTAK | W7WRG | 103.5 | Tone | Haystack, link to WETNET |
-|  66 | 0.000 |   |  |  | 0.0 |  |  |
 |  67 | 223.8800 | - | CAMNO | W7PIG | 103.5 | Tone | Camano Island |
 |  68 | 224.3800 | - | SMOKY21 | VA7DEM | 103.5 | Tone | Smokey Point |
 |  69 | 223.9600 | - | SUREY22 | VE7RHC | 100.0 | Tone | Surrey, BC |
+|  100 | 222.000 |   | 052419 | N0NE | 88.5 |  | Revision date |
 
 ```
 * CS = Carrier Squelch (no tone)
