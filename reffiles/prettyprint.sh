@@ -168,7 +168,7 @@ done
 make_markdown
 
 # Remove any tmp files
-rm "*_tmp.csv"
-rm "*_tmp.md"
+rm *_tmp.csv
+rm *_tmp.md
 
 exit 0
