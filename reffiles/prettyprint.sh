@@ -9,7 +9,8 @@ outfile_name="KW_TMV71A"
 function usage() {
    echo "Usage: $scriptname [-n][-k][-a][-A][-h]" >&2
    echo "   -n | --noob       HT dualband noob"
-   echo "   -k | --kenwood    Kenwood TM-V71a"
+   echo "   -k | --kwtmv71    Kenwood TM-V71a"
+   echo "   -t | --kwthf6     Kenwood TH-F6"
    echo "   -a | --alinco     Alinco DR-235 mkIII"
    echo "   -A | --all        All radios"
    echo "   -h | --help       display this message"
@@ -123,9 +124,13 @@ while [[ $# -gt 0 ]] ; do
         DEBUG=1
         echo "Set debug flag"
         ;;
-      -k|--kenwood)
+      -k|--kwtmv71)
         infile_name="Kenwood_TM-V71A"
         outfile_name="KW_TMV71A"
+        ;;
+      -t|--kwthf6)
+        infile_name="HTtriband"
+        outfile_name="KW_TH-F6A"
         ;;
       -a|--alinco)
         infile_name="Alinco_DR235"
@@ -138,6 +143,10 @@ while [[ $# -gt 0 ]] ; do
 
         infile_name="HTdualband_noob"
         outfile_name="HTdualband"
+        make_markdown
+
+        infile_name="HTtriband"
+        outfile_name="KW_TH-F6A"
         make_markdown
 
         infile_name="Kenwood_TM-V71A"
