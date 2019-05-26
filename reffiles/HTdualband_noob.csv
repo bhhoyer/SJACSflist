@@ -82,7 +82,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 115,DNR,151.415,off,0,,88.5,88.5,23,NN,NFM,5,,,,,
 116,ORFIRE,154.205,off,0,,88.5,88.5,23,NN,NFM,5,,,,,
 117,REDNET,153.83,off,0,,88.5,88.5,23,NN,NFM,5,,,,,
-118,MED1IN,468.0,,0,,88.5,88.5,23,NN,NFM,5,,,,,
+118,MED1IN,468.0,off,0,,88.5,88.5,23,NN,NFM,5,,,,,
 119,AIRNW3,463.05,off,0,,88.5,88.5,23,NN,NFM,5,,,,,
 120,SJCOPS,453.25,off,0,,88.5,88.5,23,NN,NFM,5,,,,,
 121,MAR16,156.8,off,0,,88.5,88.5,23,NN,FM,5,,"Inter. Distress, Safety & Calling",,,
