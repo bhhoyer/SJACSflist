@@ -45,7 +45,7 @@
 |  202 | 222.880 | + | REV-21 | N7JN | 103.5 | Tone | Reverse |
 |  203 | 224.480 |   | DIR-21 |  | 103.5 | TSQL | Direct (simplex) |
 |  210 | 223.500 |   | TAC-20 |  | 67.0 | Tone | National Simplex |
-|  211 | 223.480 |   | TAC-21 |  | 67.0 | Tone |  |
+|  211 | 223.480 |   | TAC-21 |  | 67.0 | Tone | Watcom Unified Resource Net |
 |  212 | 223.520 |   | TAC-22 |  | 67.0 | Tone |  |
 |  213 | 222.400 |   | TAC-23 |  | 67.0 | Tone |  |
 |  214 | 224.000 |   | TAC-24 |  | 67.0 | Tone |  |
@@ -74,6 +74,7 @@
 |  267 | 223.880 | - | CAMNO | W7PIG | 103.5 | Tone | Camano Island |
 |  268 | 224.380 | - | SMOKY21 | WA7DEM | 103.5 | Tone | Smokey Point |
 |  269 | 223.960 | - | SUREY22 | VE7RHC | 100.0 | Tone | Surrey, BC |
+|  270 | 224.220 | - | SEAPAC | N7IPB | 103.5 | Tone | Ken Koster |
 |  301 | 443.450 | + | CADY41 | N7JN | 103.5 | TSQL | SJCARS Repeater |
 |  302 | 448.450 | - | REV-41 | N7JN | 103.5 | Tone | SJCARS reverse |
 |  303 | 443.450 |   | DIR-41 |  | 103.5 | TSQL | SJCARS Direct (simplex) |
