@@ -30,7 +30,7 @@
 
 * [Markdown file frequency list](https://github.com/bhhoyer/SJACSflist/blob/master/reffiles/KW_TH-F6A.md) generated from HTtriband.csv programming file.
 * Used to program the Kenwood TH-F6A tribander ONLY
-* Available memories, 400, memories used 1-380
+* Available memories, 400 (0-399), memories used 1-380
 * Index starts with 2M band
 * Index for 220 band starts at 201
 * Index for 440 band starts at 301
