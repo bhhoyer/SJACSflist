@@ -83,7 +83,7 @@
 |  115 | 151.415 | off | DNR |  |   |  |  |
 |  116 | 154.205 | off | ORFIRE |  |   |  |  |
 |  117 | 153.830 | off | REDNET |  |   |  |  |
-|  118 | 468.000 |   | MED1IN |  |   |  |  |
+|  118 | 468.000 | off | MED1IN |  |   |  |  |
 |  119 | 463.050 | off | AIRNW3 |  |   |  |  |
 |  120 | 453.250 | off | SJCOPS |  |   |  |  |
 |  121 | 156.800 | off | MAR16 |  |   |  | Inter. Distress, Safety & Calling |
