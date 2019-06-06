@@ -40,7 +40,7 @@
 |  60 | 145.430 | - | ITS-11 | VA7DGA | 141.3 | Tone | Van. I. Trunk System, Nanaimo, BC |
 |  61 | 146.680 | - | ITS-12 | VE7RNA | 141.3 | Tone | Van. I. Trunk System, Chemainus, BC |
 |  63 | 145.470 | - | SICK11 | VE7RVC | 127.3 | Tone | Duncan, Mt. Sicker |
-|  100 | 144.000 |   | 051419 | N0NE | 88.5 |  | Revision date |
+|  100 | 144.000 |   | 060419 | N0NE | 88.5 |  | Revision date |
 |  101 | 443.450 | + | CADY41 | N7JN | 103.5 | TSQL | SJCARS Repeater |
 |  102 | 448.450 | - | REV-41 | N7JN | 103.5 | Tone | SJCARS reverse |
 |  103 | 443.450 |   | DIR-41 |  | 103.5 | TSQL | SJCARS Direct (simplex) |
@@ -62,7 +62,6 @@
 |  135 | 440.125 |   | NET-45 |  |   |  | RMS Gate K7KCA-10 |
 |  136 | 440.950 |   | NET-46 |  |   |  |  |
 |  140 | 442.400 | + | BLAINE | W7UMH | 107.2 | Tone | Lyman Hill |
-|  141 | 442.800 | + | BLYN41 | N7NFY | 123.0 | Tone | Sequim |
 |  142 | 443.750 | + | SQAL41 | WA7ZWG | 103.5 | Tone | Squalicum Mt. |
 |  143 | 444.050 | + | CONY41 | K7SKW | 103.5 | Tone | Mt. Constitution |
 |  144 | 444.300 | + | TIGR42 | WA7WKT | 103.5 | Tone | Tiger Mt. |
@@ -71,7 +70,7 @@
 |  147 | 442.250 | + | LOOK42 | NC7Q | 156.7 | Tone | Hospital link to LOOK-21 |
 |  148 | 443.475 | + | LOPZ41 | KD7KAB | 77.0 | Tone | Lopez |
 |  149 | 444.925 | + | SURV41 | VE7RWS | 100.0 | Tone | Survey Mt. (Can. ARES) |
-|  150 | 442.100 | + | BLYN41 | KC7EQO | 100.0 | Tone | Blyn Mt. near Sequim |
+|  150 | 442.100 | + | BLYN41 | KC7EQO | 100.0 | Tone | Blyn Mt. (near Sequim) |
 |  152 | 443.300 | + | PT-ROB | KJ1U | 100.0 | Tone | Pt. Roberts |
 |  153 | 442.600 | + | ITS-41 | VE7RNA | 141.3 | Tone | Van. I. Trunk Sys, BC |
 |  154 | 444.625 | + | CULT41 | NC7Q | 103.5 | Tone | Cultus Mt. east of Mt Vernon |

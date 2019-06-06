@@ -40,7 +40,7 @@
 |  60 | 145.430 | - | ITS-11 | VA7DGA | 141.3 | Tone | Van. I. Trunk System, Nanaimo, BC |
 |  61 | 146.680 | - | ITS-12 | VE7RNA | 141.3 | Tone | Van. I. Trunk System, Chemainus, BC |
 |  63 | 145.470 | - | SICK11 | VE7RVC | 127.3 | Tone | Duncan, Mt. Sicker |
-|  100 | 144.000 |   | 051419 | N0NE | 88.5 |  | Revision date |
+|  100 | 144.000 |   | 060419 | N0NE | 88.5 |  | Revision date |
 |  201 | 224.480 | - | CONI21 | N7JN | 103.5 | TSQL | Mt. Constitution Repeater |
 |  202 | 222.880 | + | REV-21 | N7JN | 103.5 | Tone | Reverse |
 |  203 | 224.480 |   | DIR-21 |  | 103.5 | TSQL | Direct (simplex) |
@@ -105,7 +105,7 @@
 |  347 | 442.250 | + | LOOK42 | NC7Q | 156.7 | Tone | Hospital link to LOOK-21 |
 |  348 | 443.475 | + | LOPZ41 | KD7KAB | 77.0 | Tone | Lopez |
 |  349 | 444.925 | + | SURV41 | VE7RWS | 100.0 | Tone | Survey Mt. (Can. ARES) |
-|  350 | 442.100 | + | BLYN41 | KC7EQO | 100.0 | Tone | Blyn Mt. near Sequim |
+|  350 | 442.100 | + | BLYN41 | KC7EQO | 100.0 | Tone | Blyn Mt. (near Sequim) |
 |  352 | 443.300 | + | PT-ROB | KJ1U | 100.0 | Tone | Pt. Roberts |
 |  353 | 442.600 | + | ITS-41 | VE7RNA | 141.3 | Tone | Van. I. Trunk Sys, BC |
 |  354 | 444.625 | + | CULT41 | NC7Q | 103.5 | Tone | Cultus Mt. east of Mt Vernon |
