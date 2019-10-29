@@ -2,6 +2,8 @@
 #
 # Read the Kenwood TM-v71a CSV file and write out a file compatible
 # with the ICOM ID-5100A
+# Uncomment following statement for debug echos
+DEBUG=1
 
 USER=$(whoami)
 
@@ -14,6 +16,10 @@ OUTPUT_DIR="/home/$USER/tmp/id5100"
 OUTPUT_FILE="$OUTPUT_DIR/test_file_100.csv"
 
 ICOM_HEADER="CH No,Frequency,Dup,Offset,TS,Mode,Name,SKIP,TONE,Repeater Tone,TSQL Frequency,DTCS Code,DTCS Polarity,DV SQL,DV CSQL Code,Your Call Sign,RPT1 Call Sign,RPT2 Call Sign"
+
+function dbgecho { if [ ! -z "$DEBUG" ] ; then echo "$*"; fi }
+
+# ===== main
 
 if [ ! -e "$INPUT_FILE" ] ; then
     echo "Could not locate $INPUT_FILE"
@@ -31,7 +37,7 @@ fi
 
 
 # Read the Kenwood CSV file line by line
-bank_num=100
+bank_num=0
 entry_count=0
 OUTPUT_FILE="$OUTPUT_DIR/test_file_$bank_num.csv"
 
@@ -54,11 +60,11 @@ while read freqlist ; do
         echo "$ICOM_HEADER" > $OUTPUT_FILE
         continue;
     fi
-    echo "channel number: $ch_no, bank number: $bank_num"
 
+    bank_num_max=$((bank_num + 100))
     # Files should be in 100 entry chunks
-    if [ "$channel_number" -ge "$bank_num" ] ; then
-        echo "Entry count: $entry_count, for bank $bank_num"
+    if [ "$channel_number" -ge "$bank_num_max" ] ; then
+        dbgecho "Entry count: $entry_count, for bank $bank_num"
         bank_num=$((bank_num+100))
         OUTPUT_FILE="$OUTPUT_DIR/test_file_$bank_num.csv"
         echo "$ICOM_HEADER" > $OUTPUT_FILE
@@ -118,7 +124,8 @@ while read freqlist ; do
     DvSqlCode=0
 
     echo "$ch_no,$freq,$dup,$offset,$TStep,$Mode,$Name,$Skip,$Tone,$rTone,$cTone,$DtcsCode,$DtcsPolarity,$DvSql,$DvSqlCode,$URCALL,$RPT1CALL,$RPT2CALL" >> $OUTPUT_FILE
+    dbgecho "channel number: $ch_no, bank number: $bank_num"
 done < $INPUT_FILE
 
 # Display last bank entry count
-echo "Entry count: $entry_count, for bank $bank_num"
+dbgecho "Entry count: $entry_count, for bank $bank_num"
