@@ -1,7 +1,7 @@
-190505 REVISION NOTES
-IC-706 HF frequency list added.
+REVISION NOTES:
+141 442.800 + BLYN42  N7NFY  PL-123.0 TX    Sequim REMOVED
 
-SAN JUAN COUNTY FREQUENCY LIST April 5, 2019.
+SAN JUAN COUNTY ACS FREQUENCY LIST Sept 20, 2019.
 
 VHF FREQUENCIES
     FREQ   OFS ID      CALL   TONE     PL    QTH/NOTES
@@ -9,7 +9,7 @@ VHF FREQUENCIES
   2 146.100 + REV-11          PL-131.8 TX    SJCARS REVERSE
   3 146.700   DIR-11          PL-131.8 TX-RX SJCARS DIRECT (SIMPLEX)
   4 146.700   CALL11          PL-141.3 TX-RX SJCARS CALLUP
-  5 145.250 - RPT-12   N7JN                  SJCARS D-STAR REPEATER (Hillview Terrace)
+  5 145.250 - RPT-12   N7JN-C                SJCARS D-STAR REPEATER (Hillview Terrace)
   6 146.250 + REV-12                         SJCARS D-STAR REVERSE
   7 145.250   DIR-12                         SJCARS D-STAR SIMPLEX
  10 146.520   TAC-10          PL-131.8 TX    NATIONAL SIMPLEX
@@ -27,25 +27,25 @@ VHF FREQUENCIES
  32 145.630   NET-13                         AIRMAIL
  33 145.690   NET-14                         AIRMAIL
  34 144.970   NET-15                         AIRMAIL
- 35 144.910   NET-16                         N7JN-11 Vusario, N7NIX-10, K7QHQ-10 (via DIGI)
+ 35 144.910   NET-16  N7JN-11                Vusario, N7NIX-10, K7QHQ-10 (via DIGI)
  36 144.930   NET-17                         AIRMAIL
  37 145.610   NET-18                         AIRMAIL
  50 145.130 - ANGL11   WF7W   PL-100.0       Port Angeles
  51 145.190 - LYMAN1   N7GDE  PL 127.3       Lyman Hill
  52 145.230 - SUMAS1   W7BPD  PL-103.5       Sumas
  53 146.620 - GOLD11   WW7RA  PL-103.5       Gold Mountain (QRM from 146.61 rpt)
- 54 146.740 - CONY11   K7SKW  PL-103.5       Mt. Constitution
- 55 146.900 - WH-ROK   VE7RWR PL-091.5       White Rock, BC
- 56 146.860 - OAK-HB   W7AVM  PL-127.3       Oak Harbor
- 57 146.920 - GRANIT   WA7DEM PL-123.0       Granite Falls
- 58 147.160 + KING     K7SKW  PL-103.5       King Mt.IRLP-3276
- 59 145.150 - PT-TOW   W7JCR  PL-114.8       Port Townsend
+ 54 146.740 - CONIE1   K7SKW  PL-103.5       Mt. Constitution
+ 55 146.900 - W-ROK1   VE7RWR PL-091.5       White Rock, BC
+ 56 146.860 - OAKHB1   W7AVM  PL-127.3       Oak Harbor
+ 57 146.920 - GRNIT1   WA7DEM PL-123.0       Granite Falls
+ 58 147.160 + KING11   K7SKW  PL-103.5       King Mt.IRLP-3276
+ 59 145.150 - TOWNS1   W7JCR  PL-114.8       Port Townsend
  60 145.430 - ITS-11   VA7DGA PL-141.3       Vancouver I. Trunk System, Nanaimo, BC
  61 146.680 - ITS-12   VE7RNA PL-141.3       Vancouver I. Trunk System, Chemainus, BC
 
 220 MHZ FREQUENCIES
     FREQ   OFS ID      CALL   TONE     PL    QTH/NOTES
-  1 224.480 - CONI21   N7JN   PL-103.5 TX-RX Mt. Constitution Repeater
+  1 224.480 - CONIE2   N7JN   PL-103.5 TX-RX Mt. Constitution Repeater
   2 222.880 + REV-21          PL-103.5 TX    REVERSE
   3 224.480   DIR-21          PL-103.5 TX-RX DIRECT (SIMPLEX)
  10 223.500   TAC-20          PL-67    TX    NATIONAL SIMPLEX
@@ -55,7 +55,7 @@ VHF FREQUENCIES
  14 224.000   TAC-24          PL-67    TX
  15 223.420   TAC-25          PL-103.5 TX    STATEWIDE PRIMARY
  16 223.440   TAC-26          PL-103.5 TX    STATEWIDE ALTERNATE
- 30 223.780   NET-21                         N7JN-11 Vusario, RMS GATE KF7FIT-10
+ 30 223.780   NET-21   N7JN-11               Vusario, RMS GATE KF7FIT-10
  31 223.660   NET-22                         AIRMAIL
  32 223.400   NET-23                         AIRMAIL
  33 223.620   NET-24                         AIRMAIL
@@ -85,7 +85,7 @@ UHF FREQUENCIES
 101 443.450 + CADY41  N7JN   PL-103.5 TX-RX SJCARS REPEATER
 102 448.450 - REV-41         PL-103.5 TX    REVERSE
 103 443.450   DIR-41         PL-103.5 TX-RX DIRECT (SIMPLEX)
-104 442.4625+ RPT-42  N7JN                  D-STAR (Hillview Terrace)
+104 442.4625+ RPT-42  N7JN-B                D-STAR (Hillview Terrace)
 105 447.4625- REV-42                        D-STAR REPEATER
 106 442.4625  DIR-42                        D-STAR REPEATER
 110 446.000   TAC-40         PL-156.7 TX    NATIONAL SIMPLEX
@@ -99,10 +99,10 @@ UHF FREQUENCIES
 133 439.900   NET-43                        AIRMAIL
 134 439.950   NET-44                        AIRMAIL
 135 440.125   NET-45                        RMS GATE K7KCA-10
-140 442.400 + BLAINE  W7UMH  PL-107.2 TX    Lyman Hill
+140 442.400 + BLAIN4  W7UMH  PL-107.2 TX    Lyman Hill
 141
 142 443.750 + SQAL41  WA7ZWG PL-103.5 TX    Squalicum Mt.
-143 444.050 + CONY41  K7SKW  PL-103.5 TX    Mt. Constitution
+143 444.050 + CONIE4  K7SKW  PL-103.5 TX    Mt. Constitution
 144 444.300 + TIGR42  WA7WKT PL-103.5 TX    Tiger Mt.
 145 444.500 + LYMN41  WA7ZUS PL-103.5 TX    Lyman Hill
 146 444.775 + ANGL41  KJ7XE  PL-103.5 TX    Port Angeles
@@ -111,7 +111,7 @@ UHF FREQUENCIES
 149 444.925 + SURV41  VE7RWS PL-100.0 TX    Survey Mt. (Canadian ARES)
 150 442.100 + BLYN41  KC7EQO PL-100.0 TX    Blyn Mt. (near Sequem)
 151
-152 443.300 + PT-ROB  KJ1U   PL-100.0 TX    Point Roberts
+152 443.300 + P-ROB4  KJ1U   PL-100.0 TX    Point Roberts
 153 442.600 + ITS-41  VE7RNA PL-141.3 TX    Vancouver I. Trunk System, BC
 154 444.625 + CULT41  NC7Q   PL-103.5 TX    Cultis Mt.
 
