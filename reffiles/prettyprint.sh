@@ -8,12 +8,13 @@ outfile_name="KW_TMV71A"
 
 function usage() {
    echo "Usage: $scriptname [-n][-k][-a][-A][-h]" >&2
-   echo "   -n | --noob       HT dualband noob"
-   echo "   -k | --kwtmv71    Kenwood TM-V71a"
-   echo "   -t | --kwthf6     Kenwood TH-F6"
-   echo "   -a | --alinco     Alinco DR-235 mkIII"
-   echo "   -A | --all        All radios"
-   echo "   -h | --help       display this message"
+   echo "   -n1 | --noob1     HT triband noob"
+   echo "   -n2 | --noob2     HT dualband noob"
+   echo "   -k  | --kwtmv71    Kenwood TM-V71a"
+   echo "   -t  | --kwthf6     Kenwood TH-F6"
+   echo "   -a  | --alinco     Alinco DR-235 mkIII"
+   echo "   -A  | --all        All radios"
+   echo "   -h  | --help       display this message"
    echo
 }
 
@@ -116,9 +117,13 @@ while [[ $# -gt 0 ]] ; do
    key="$1"
 
    case $key in
-      -n|--noob)
+      -n1|--noob1)
         infile_name="HTdualband_noob"
-        outfile_name="HTdualband"
+        outfile_name="HTdualband_noob"
+	;;
+      -n2|--noob2)
+        infile_name="HTtriband_noob"
+        outfile_name="HTtriband_noob"
 	;;
       -d|--debug)
         DEBUG=1
@@ -142,7 +147,11 @@ while [[ $# -gt 0 ]] ; do
         make_markdown
 
         infile_name="HTdualband_noob"
-        outfile_name="HTdualband"
+        outfile_name="HTdualband_noob"
+        make_markdown
+
+        infile_name="HTtriband_noob"
+        outfile_name="HTtriband_noob"
         make_markdown
 
         infile_name="HTtriband"
