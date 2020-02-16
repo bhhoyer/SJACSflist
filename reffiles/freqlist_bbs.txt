@@ -1,7 +1,7 @@
 REVISION NOTES:
-141 442.800 + BLYN42  N7NFY  PL-123.0 TX    Sequim REMOVED
+146 444.775 ANGL41 off air. Removed and replaced with 444.900 + PL-103.5 ANGL42.
 
-SAN JUAN COUNTY ACS FREQUENCY LIST Sept 20, 2019.
+SAN JUAN COUNTY ACS FREQUENCY LIST Feb. 15, 2020
 
 VHF FREQUENCIES
     FREQ   OFS ID      CALL   TONE     PL    QTH/NOTES
@@ -27,7 +27,7 @@ VHF FREQUENCIES
  32 145.630   NET-13                         AIRMAIL
  33 145.690   NET-14                         AIRMAIL
  34 144.970   NET-15                         AIRMAIL
- 35 144.910   NET-16  N7JN-11                Vusario, N7NIX-10, K7QHQ-10 (via DIGI)
+ 35 144.910   NET-16   N7JN-11               Vusario, N7NIX-10, K7QHQ-10 (via DIGI),FSQ-6
  36 144.930   NET-17                         AIRMAIL
  37 145.610   NET-18                         AIRMAIL
  50 145.130 - ANGL11   WF7W   PL-100.0       Port Angeles
@@ -60,25 +60,25 @@ VHF FREQUENCIES
  32 223.400   NET-23                         AIRMAIL
  33 223.620   NET-24                         AIRMAIL
  50 223.860 - MED-21   W7MBY  PL-103.5 TX    Hospital net repeater
- 51 224.120 - TIGR-MT  K7LED  PL-103.5 TX    Tiger Mt.
- 52 224.240 - BLYN     N7NFY  PL-103.5 TX    Haystack (was Blyn)
- 53 224.300 - VANCUVR  VE7RPT CS *           Vancouver BC
- 54 224.500 - VICTRIA  VE7RGP CS *           Victoria BC
- 55 224.600 - BRNBY21  VE7NYE PL-127.3 TX    Burnaby BC
- 56 224.660 - GOLD-21  N7IPB  PL-103.5 TX    Gold Mt.
+ 51 224.120 - TIGR21   K7LED  PL-103.5 TX    Tiger Mt.
+ 52 224.240 - BLYN21   N7NFY  PL-103.5 TX    Haystack (was Blyn)
+ 53 224.300 - VANC21   VE7RPT CS *           Vancouver BC
+ 54 224.500 - VICT21   VE7RGP CS *           Victoria BC
+ 55 224.600 - BRNBY2   VE7NYE PL-127.3 TX    Burnaby BC
+ 56 224.660 - GOLD21   N7IPB  PL-103.5 TX    Gold Mt.
  57
- 58 224.860 - KING-21  N7FYU  PL-103.5 TX    King Mt.
- 59 224.880 - MAPLRIG  VE7RMR CS *           Maple Ridge BC
- 60 224.920 - SUREY21  VE7IFI CS *           Coquitlem? BC
- 61 224.960 - BRNBY22  VE7VYL CS *           Burnaby BC
+ 58 224.860 - KING-2   N7FYU  PL-103.5 TX    King Mt.
+ 59 224.880 - MAPL-2   VE7RMR CS *           Maple Ridge BC
+ 60 224.920 - SUREY2   VE7IFI CS *           Coquitlem? BC
+ 61 224.960 - BRNBY2   VE7VYL CS *           Burnaby BC
  62 224.540 - VUE-21   WA6MPG PL-067.0 TX    Vusario
- 63 224.160 - LOOK-21  NC7Q   PL-156.7 TX    Hospital link to LOOK-42
- 64 224.780 - LYMN-21  N7RIG  PL-103.5 TX    Lyman Hill, link to WETNET
- 65 224.580 - HAYSTAK  W7WRG  PL-103.5 TX    Haystack, link to WETNET
+ 63 224.160 - LOOK-2   NC7Q   PL-156.7 TX    Hospital link to LOOK-42
+ 64 224.780 - LYMN-2   N7RIG  PL-103.5 TX    Lyman Hill, link to WETNET
+ 65 224.580 - HAY-21   W7WRG  PL-103.5 TX    Haystack, link to WETNET
  66
- 67 223.880 - CAMNO    W7PIG  PL-103.5 TX    Camano Island
- 68 224.380 - SMOKY21  WA7DEM PL-103.5 TX    Smokey Point
- 69 223.960 - SUREY22  VE7RHC PL-100.0 TX    Surrey BC
+ 67 223.880 - CAMNO2   W7PIG  PL-103.5 TX    Camano Island
+ 68 224.380 - SMOKY2   WA7DEM PL-103.5 TX    Smokey Point
+ 69 223.960 - SUREY2   VE7RHC PL-100.0 TX    Surrey BC
 
 UHF FREQUENCIES
     FREQ   OFS ID     CALL   TONE PL        QTH/NOTES
@@ -93,7 +93,7 @@ UHF FREQUENCIES
 112 441.000   TAC-42         PL-156.7 TX
 113 441.500   TAC-43         PL-156.7 TX
 114 445.825   TAC-44         PL-103.5 TX    STATEWIDE PRIMARY
-115 445.800   TAC-45         PL-103.5 TX    STATEWIDE ALTERNATE
+115 445.800   TAC-45         PL-103.5 TX    STATEWIDE ALTERNATE (DSTAR)
 131 441.500   NET-41                        AIRMAIL SHARED W/VOICE
 132 445.000   NET-42                        AIRMAIL
 133 439.900   NET-43                        AIRMAIL
@@ -105,7 +105,7 @@ UHF FREQUENCIES
 143 444.050 + CONIE4  K7SKW  PL-103.5 TX    Mt. Constitution
 144 444.300 + TIGR42  WA7WKT PL-103.5 TX    Tiger Mt.
 145 444.500 + LYMN41  WA7ZUS PL-103.5 TX    Lyman Hill
-146 444.775 + ANGL41  KJ7XE  PL-103.5 TX    Port Angeles
+146 444.900 + ANGL42  W6MPD  PL-103.5 TX    Port Angeles
 147 442.250 + LOOK42  NC7Q   PL-156.7 TX    Hospital link to LOOK-21
 148 443.475 + LOPZ41  KD7KAB PL-077.0 TX    Lopez
 149 444.925 + SURV41  VE7RWS PL-100.0 TX    Survey Mt. (Canadian ARES)
@@ -116,16 +116,16 @@ UHF FREQUENCIES
 154 444.625 + CULT41  NC7Q   PL-103.5 TX    Cultis Mt.
 
 WHITE BOX IC-706 HF MEMORY CHANNEL LIST
-  1	3985.0  LSB     WA . STATE EMERGENCY NET (WSEN)
-  2	5371.5	USB	WA . STATE EMERGENCY NET (WSEN)
-  3	7245.0	LSB     WA . STATE EMERGENCY NET (WSEN)
-  4	3944.0	LSB	SJCARS NET
-  8	3596.5 LSB	Pactor AirMail
- 11	5330.5	USB	F-1	USB 100W ERP max.
- 12	5346.5	USB	F-2     USB 100W ERP max.
- 13	5366.5	USB	F-3     USB 100W ERP max.
- 14	5371.5	USB	F-4	USB 100W ERP max. WA. STATE NET (WSEN)
- 15	5403.5	USB	F-5     USB 100W ERP max.
+  1     3985.0  LSB   WA . STATE EMERGENCY NET (WSEN)
+  2     5371.5  USB   WA . STATE EMERGENCY NET (WSEN)
+  3     7245.0  LSB   WA . STATE EMERGENCY NET (WSEN)
+  4     3944.0  LSB   SJCARS NET
+  8     3596.5  LSB   Pactor AirMail
+ 11     5330.5  USB   F-1   USB 100W ERP max.
+ 12     5346.5  USB   F-2   USB 100W ERP max.
+ 13     5366.5  USB   F-3   USB 100W ERP max.
+ 14     5371.5  USB   F-4   USB 100W ERP max. WA. STATE NET (WSEN)
+ 15     5403.5  USB   F-5   USB 100W ERP max.
 
 * CS = Carrier Squelch (no tone)
 **    NBFM Repeater CHANNEL 5 output
