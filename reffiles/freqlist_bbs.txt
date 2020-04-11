@@ -1,7 +1,11 @@
 REVISION NOTES:
-146 444.775 ANGL41 off air. Removed and replaced with 444.900 + PL-103.5 ANGL42.
+146. PL tone correction:  444.900 + PL-107.2 ANGL42.
+ 57. NEW, 224.060 ANGL21 - 1.6 PL-107.2
+ 12. DELEATED, TAC-12 because of adjacent digital repeater activity.
+ 16. DELEATED, TAC-16 because of adjacent digital repeater activity.
+ 18. DELEATED, TAC-18 because of adjacent digital repeater activity.
 
-SAN JUAN COUNTY ACS FREQUENCY LIST Feb. 15, 2020
+SAN JUAN COUNTY ACS FREQUENCY LIST Feb. 25, 2020
 
 VHF FREQUENCIES
     FREQ   OFS ID      CALL   TONE     PL    QTH/NOTES
@@ -14,20 +18,20 @@ VHF FREQUENCIES
   7 145.250   DIR-12                         SJCARS D-STAR SIMPLEX
  10 146.520   TAC-10          PL-131.8 TX    NATIONAL SIMPLEX
  11 144.310   TAC-11          PL-131.8 TX
- 12 146.500   TAC-12          PL-131.8 TX    NBFM repeater ch-8 output
+ 12
  13 146.540   TAC-13          PL-131.8 TX    Watcom,King,Island,Blaine
  14 145.530   TAC-14          PL-131.8 TX    Lynden ARC
- 15 146.420   TAC-15          PL-131.8 TX    NBFM repeater ch-2 output
- 16 147.500   TAC-16          PL-131.8 TX    Stanwood-Camano Is. ****
- 17 147.400   TAC-17          PL-131.8 TX    NBFM repeater ch-1 input
- 18 146.460   TAC-18          PL-103.5 TX    STATEWIDE PRIMARY **
- 19 146.480   TAC-19          PL-103.5 TX    STATEWIDE ALTERNATE ***
+ 15 146.420   TAC-15          PL-131.8 TX    NBFM CH-2 repeater output (weak)
+ 16
+ 17 147.400   TAC-17          PL-131.8 TX    NBFM CH-1 repeater input
+ 18
+ 19 146.480   TAC-19          PL-103.5 TX    NBFM CH-7 rpt. output/Statewide Alt
  30 144.990   NET-11                         AIRMAIL
  31 144.950   NET-12                         AIRMAIL
  32 145.630   NET-13                         AIRMAIL
  33 145.690   NET-14                         AIRMAIL
  34 144.970   NET-15                         AIRMAIL
- 35 144.910   NET-16   N7JN-11               Vusario, N7NIX-10, K7QHQ-10 (via DIGI),FSQ-6
+ 35 144.910   NET-16   N7JN-11               Vusario, N7NIX-10, K7QHQ-10 (via DIGI),FSQ6
  36 144.930   NET-17                         AIRMAIL
  37 145.610   NET-18                         AIRMAIL
  50 145.130 - ANGL11   WF7W   PL-100.0       Port Angeles
@@ -66,7 +70,7 @@ VHF FREQUENCIES
  54 224.500 - VICT21   VE7RGP CS *           Victoria BC
  55 224.600 - BRNBY2   VE7NYE PL-127.3 TX    Burnaby BC
  56 224.660 - GOLD21   N7IPB  PL-103.5 TX    Gold Mt.
- 57
+ 57 224.060 - ANGL21   W6MPD  PL-107.2 TX    Port Angeles
  58 224.860 - KING-2   N7FYU  PL-103.5 TX    King Mt.
  59 224.880 - MAPL-2   VE7RMR CS *           Maple Ridge BC
  60 224.920 - SUREY2   VE7IFI CS *           Coquitlem? BC
@@ -105,7 +109,7 @@ UHF FREQUENCIES
 143 444.050 + CONIE4  K7SKW  PL-103.5 TX    Mt. Constitution
 144 444.300 + TIGR42  WA7WKT PL-103.5 TX    Tiger Mt.
 145 444.500 + LYMN41  WA7ZUS PL-103.5 TX    Lyman Hill
-146 444.900 + ANGL42  W6MPD  PL-103.5 TX    Port Angeles
+146 444.900 + ANGL42  W6MPD  PL-107.2 TX    Port Angeles
 147 442.250 + LOOK42  NC7Q   PL-156.7 TX    Hospital link to LOOK-21
 148 443.475 + LOPZ41  KD7KAB PL-077.0 TX    Lopez
 149 444.925 + SURV41  VE7RWS PL-100.0 TX    Survey Mt. (Canadian ARES)
@@ -128,11 +132,8 @@ WHITE BOX IC-706 HF MEMORY CHANNEL LIST
  15     5403.5  USB   F-5   USB 100W ERP max.
 
 * CS = Carrier Squelch (no tone)
-**    NBFM Repeater CHANNEL 5 output
-***   NBFM Repeater channel 7 output
-****  NBFM Repeater channel 8 input
-TAC = VOICE TAC CHANNEL
-NET = PACKET CHANNEL
+TAC  = VOICE TAC CHANNEL
+NET  = PACKET CHANNEL
 ALPHA TAGS are based on NPSTC channel naming convention as used in NIFOG:
 FIRST NUMBER = BAND (eg 1 = 144, 2 = 220, 4 = 440) This helps eliminate confusion
       on dual band radios that may contain two repeaters on diferent bands with
