@@ -122,7 +122,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 63,LOOK-2,224.160000,-,1.600000,Tone,156.7,156.7,023,NN,FM,25.00,,Hospital link to LOOK-42,NC7Q,,
 64,LYMN-2,224.780000,-,1.600000,Tone,103.5,103.5,023,NN,FM,25.00,,"Lyman Hill, link to WETNET",N7RIG,,
 65,HAY-21,224.580000,-,1.600000,Tone,103.5,103.5,023,NN,FM,25.00,,"Haystack, link to WETNET",W7WRG,,
-66,,,,,,,,,,,,,,,,,
+66,,,,,,,,,,,,,,,,
 67,CAMNO2,223.880000,-,1.600000,Tone,103.5,103.5,023,NN,FM,25.00,,Camano Island,W7PIG,,
 68,SMOKY2,224.380000,-,1.600000,Tone,103.5,103.5,023,NN,FM,25.00,,Smokey Point,WA7DEM,,
 69,SUREY2,223.960000,-,1.600000,Tone,100.0,100.0,023,NN,FM,25.00,,"Surrey, BC",VE7RHC,,
