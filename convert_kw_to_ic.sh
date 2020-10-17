@@ -35,7 +35,6 @@ if [ -e "$OUTPUT_FILE" ] ; then
     rm "$OUTPUT_FILE"
 fi
 
-
 # Read the Kenwood CSV file line by line
 bank_num=0
 entry_count=0
