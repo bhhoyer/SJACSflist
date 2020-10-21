@@ -124,6 +124,6 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 373,WX04,162.425,,0,,88.5,88.5,23,NN,FM,5,S,,,,
 374,SJCTAF,128.25,,0,,88.5,88.5,23,NN,AM,5,S,SJC Common Traffic Advisory Frequency,,,,
 375,AVBEAC,121.5,,0,,88.5,88.5,23,NN,AM,5,S,Aviation ELT Beacon,,,,
-376,AVTBEA,121.775,0,,88.5,88.5,23,NN,AM,5,S,Aviation Training Beacon,,,,
+376,AVTBEA,121.775,,0,,88.5,88.5,23,NN,AM,5,S,Aviation Training Beacon,,,,
 377,FH WX,135.675,,0,,88.5,88.5,23,NN,AM,5,S,Friday Harbor Airport weather,,,,
 380,FERRY,151.04,,0,,88.5,88.5,23,NN,FM,5,,,,,

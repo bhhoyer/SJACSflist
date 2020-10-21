@@ -125,7 +125,7 @@
 |  373 | 162.425 |   | WX04 |  |   |  |  |
 |  374 | 128.250 |   | SJCTAF |  |   |  | SJC Common Traffic Advisory Frequency |
 |  375 | 121.500 |   | AVBEAC |  |   |  | Aviation ELT Beacon |
-|  376 | 121.775 | 0 | AVTBEA |  |   | 88.5 |  |
+|  376 | 121.775 |   | AVTBEA |  |   |  | Aviation Training Beacon |
 |  377 | 135.675 |   | FH WX |  |   |  | Friday Harbor Airport weather |
 |  380 | 151.040 |   | FERRY |  |   |  |  |
 
