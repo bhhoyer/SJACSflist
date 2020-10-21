@@ -9,13 +9,10 @@
 |  7 | 145.250 |   | DIR-12 |  | 88.5 |  | SJCARS D-Star simplex |
 |  10 | 146.520 |   | TAC-10 |  | 131.8 | Tone | National Simplex |
 |  11 | 144.310 |   | TAC-11 |  | 131.8 | Tone |  |
-|  12 | 0.000 |   |  |  | 0.0 |  |  |
 |  13 | 146.540 |   | TAC-13 |  | 131.8 | Tone | Watcom, King, Island, Blaine |
 |  14 | 145.530 |   | TAC-14 |  | 131.8 | Tone |  |
 |  15 | 146.420 |   | TAC-15 |  | 131.8 | Tone | NBFM repeater ch-2 output |
-|  16 | 0.000 |   |  |  | 0.0 |  |  |
 |  17 | 147.400 |   | TAC-17 |  | 131.8 | Tone | NBFM repeater ch-1 input |
-|  18 | 0.000 |   |  |  | 0.0 |  |  |
 |  19 | 146.480 |   | TAC-19 |  | 103.5 | Tone | Statewide Alternate*** |
 |  26 | 144.390 |   | APRS10 |  |   |  | 1200 baud APRS |
 |  27 | 144.350 |   | APRS11 |  |   |  | 9600 baud APRS |
@@ -41,7 +38,7 @@
 |  60 | 145.430 | - | ITS-11 | VA7DGA | 141.3 | Tone | Van. I. Trunk System, Nanaimo, BC |
 |  61 | 146.680 | - | ITS-12 | VE7RNA | 141.3 | Tone | Van. I. Trunk System, Chemainus, BC |
 |  63 | 145.470 | - | SICK11 | VE7RVC | 127.3 | Tone | Duncan, Mt. Sicker |
-|  100 | 144.000 |   | 022520 | N0NE | 88.5 |  | Revision date |
+|  100 | 144.000 |   | 102120 | N0NE | 88.5 |  | Revision date |
 |  201 | 224.480 | - | CONIE2 | N7JN | 103.5 | TSQL | Mt. Constitution Repeater |
 |  202 | 222.880 | + | REV-21 | N7JN | 103.5 | Tone | Reverse |
 |  203 | 224.480 |   | DIR-21 |  | 103.5 | TSQL | Direct (simplex) |
@@ -80,7 +77,7 @@
 |  301 | 443.450 | + | CADY41 | N7JN | 103.5 | TSQL | SJCARS Repeater |
 |  302 | 448.450 | - | REV-41 | N7JN | 103.5 | Tone | SJCARS reverse |
 |  303 | 443.450 |   | DIR-41 |  | 103.5 | TSQL | SJCARS Direct (simplex) |
-|  304 | 442.4625 | + | RPT-42 | N7JN |   |  | D-Star Repeater |
+|  304 | 442.4625 | + | RPT-42 | N7JN-B |   |  | D-Star Repeater (HVT) |
 |  305 | 442.4625 | - | REV-42 |  |   |  | D-Star Repeater |
 |  306 | 442.4625 |   | DIR-42 |  |   |  | D-Star Repeater |
 |  310 | 446.000 |   | TAC-40 |  | 156.7 | Tone | National Simplex |
@@ -97,20 +94,21 @@
 |  334 | 439.950 |   | NET-44 |  |   |  |  |
 |  335 | 440.125 |   | NET-45 |  |   |  | RMS Gate K7KCA-10 |
 |  336 | 440.950 |   | NET-46 |  |   |  |  |
-|  340 | 442.400 | + | BLAINE | W7UMH | 107.2 | Tone | Lyman Hill |
+|  340 | 442.400 | + | BLAIN4 | W7UMH | 107.2 | Tone | Lyman Hill |
 |  342 | 443.750 | + | SQAL41 | WA7ZWG | 103.5 | Tone | Squalicum Mt. |
-|  343 | 444.050 | + | CONY41 | K7SKW | 103.5 | Tone | Mt. Constitution |
+|  343 | 444.050 | + | CONIE4 | K7SKW | 103.5 | Tone | Mt. Constitution |
 |  344 | 444.300 | + | TIGR42 | WA7WKT | 103.5 | Tone | Tiger Mt. |
 |  345 | 444.500 | + | LYMN41 | WA7ZUS | 103.5 | Tone | Lyman Hill |
-|  346 | 444.775 | + | PT-ANG | KJ7XE | 103.5 | Tone | Port Angeles |
+|  346 | 444.900 | + | ANGL42 | W6MPD | 107.2 | Tone | Port Angeles |
 |  347 | 442.250 | + | LOOK42 | NC7Q | 156.7 | Tone | Hospital link to LOOK-21 |
 |  348 | 443.475 | + | LOPZ41 | KD7KAB | 77.0 | Tone | Lopez |
 |  349 | 444.925 | + | SURV41 | VE7RWS | 100.0 | Tone | Survey Mt. (Can. ARES) |
 |  350 | 442.100 | + | BLYN41 | KC7EQO | 100.0 | Tone | Blyn Mt. (near Sequim) |
-|  352 | 443.300 | + | PT-ROB | KJ1U | 100.0 | Tone | Pt. Roberts |
+|  352 | 443.300 | + | P-ROB4 | KJ1U | 100.0 | Tone | Pt. Roberts |
 |  353 | 442.600 | + | ITS-41 | VE7RNA | 141.3 | Tone | Van. I. Trunk Sys, BC |
 |  354 | 444.625 | + | CULT41 | NC7Q | 103.5 | Tone | Cultus Mt. east of Mt Vernon |
 |  355 | 444.925 | + | SICK41 |  | 127.3 | Tone | Mt. Sicker, Duncan BC |
+|  356 | 443.475 | + | SEAACS | W7ACS | 141.3 | Tone | Seattle |
 |  360 | 155.100 |   | CFIRE |  |   |  |  |
 |  361 | 155.280 |   | SJAID |  |   |  |  |
 |  362 | 154.160 |   | SJTAC3 |  |   |  |  |
@@ -125,6 +123,10 @@
 |  371 | 156.800 |   | MAR16 |  |   |  | Inter. Distress, Safety & Calling |
 |  372 | 162.475 |   | WX03 |  |   |  |  |
 |  373 | 162.425 |   | WX04 |  |   |  |  |
+|  374 | 128.250 |   | SJCTAF |  |   |  | SJC Common Traffic Advisory Frequency |
+|  375 | 121.500 |   | AVBEAC |  |   |  | Aviation ELT Beacon |
+|  376 | 121.775 | 0 | AVTBEA |  |   | 88.5 |  |
+|  377 | 135.675 |   | FH WX |  |   |  | Friday Harbor Airport weather |
 |  380 | 151.040 |   | FERRY |  |   |  |  |
 
 ```
