@@ -40,7 +40,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 100,102120,144.0,,0,,88.5,88.5,23,NN,FM,5,S,"Revision date",N0NE,,
 201,CONIE2,224.48,-,1.6,TSQL,103.5,103.5,23,NN,FM,5,,Mt. Constitution Repeater,N7JN,,
 202,REV-21,222.88,+,1.6,Tone,103.5,103.5,23,NN,FM,5,,Reverse,N7JN,,
-203,DIR-21,224.48,,0,TSQL,103.5,103.5,23,NN,FM,5,,Direct (simplex),,,
+203,DIR-21,224.48,,0,TSQL,103.5,103.5,23,NN,FM,5,,Direct (Simplex),,,
 210,TAC-20,223.5,,0,Tone,67,67,23,NN,FM,5,,National Simplex,,,
 211,TAC-21,223.48,,0,Tone,67,67,23,NN,FM,5,,"Watcom Unified Resource Net",,,
 212,TAC-22,223.52,,0,Tone,67,67,23,NN,FM,5,,,,,
