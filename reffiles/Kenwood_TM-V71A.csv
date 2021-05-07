@@ -19,7 +19,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 31,NET-12,144.95,,0,,88.5,88.5,23,NN,FM,5,S,Packet,,,
 32,NET-13,145.63,,0,,88.5,88.5,23,NN,FM,5,S,Packet,,,
 33,NET-14,145.69,,0,,88.5,88.5,23,NN,FM,5,S,Packet,,,
-34,NET-15,144.97,,0,,88.5,88.5,23,NN,FM,5,S,AIRMAIL,,,
+34,NET-15,144.97,,0,,88.5,88.5,23,NN,FM,5,S,Packet,,,
 35,NET-16,144.91,,0,,88.5,88.5,23,NN,FM,5,S,"N7JN-11 Vusario, N7NIX-10, K7QHQ-10 (via DIGI)",,,
 36,NET-17,144.93,,0,,88.5,88.5,23,NN,FM,5,S,Packet,,,
 37,NET-18,145.61,,0,,88.5,88.5,23,NN,FM,5,S,Packet,,,
