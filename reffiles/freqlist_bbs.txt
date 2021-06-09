@@ -1,9 +1,7 @@
-REVISION NOTES: Change in Primary and BU #1 OPs-1 Net Repeaters
-147  442.250  LOOK42     Designated OPS-1 BACKUP #1
-154  444.625  CULT41     Designated OPS-1 PRIMARY
-  1  224.480  CONIE2     Designated OPS-1 BACKUP #2
+REVISION NOTES:
+TAC-19     Statewide Alt. may not be usable.   P-25 QRM from 146.475
 
-SAN JUAN COUNTY ACS FREQUENCY LIST Nov. 16, 2020
+SAN JUAN COUNTY ACS FREQUENCY LIST June 1, 2021
 
 VHF FREQUENCIES
     FREQ   OFS ID      CALL   TONE     PL    QTH/NOTES
@@ -20,7 +18,7 @@ VHF FREQUENCIES
  14 145.530   TAC-14          PL-131.8 TX
  15 146.420   TAC-15          PL-131.8 TX
  17 147.400   TAC-17          PL-131.8 TX
- 19 146.480   TAC-19          PL-103.5 TX    Statewide simplex alternate
+ 19 146.480   TAC-19          PL-103.5 TX    P-25 QRM from 146.475
  30 144.990   NET-11                         Packet
  31 144.950   NET-12                         Packet
  32 145.630   NET-13                         Packet
@@ -83,7 +81,7 @@ UHF FREQUENCIES
 101 443.450 + CADY41  N7JN   PL-103.5 TX-RX SJCARS Repeater
 102 448.450 - REV-41         PL-103.5 TX    SJCARS Reverse
 103 443.450   DIR-41         PL-103.5 TX-RX SJCARS Direct (simplex)
-104 442.4625+ RPT-42  N7JN-B                SJCARS D-STAR (Hillview Terrace)
+104 442.4625+ RPT-42  N7JN-B                SJCARS D-STAR Repeater (Hillview Terrace)
 105 447.4625- REV-42                        SJCARS D-STAR Reverse
 106 442.4625  DIR-42                        SJCARS D-STAR Direct
 110 446.000   TAC-40         PL-156.7 TX    NATIONAL SIMPLEX
