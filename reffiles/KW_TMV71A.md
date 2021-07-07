@@ -1,10 +1,10 @@
 | Loc|Freq|OFS|ID|Call|Tone|PL|Comment |
 | --- | ---- | :---: | ---| :---:| -- | ---| -------  |
-|  1 | 146.700 | - | CADY11 | N7JN | 131.8 | TSQL | SJCARS Repeater Cady Mt. |
+|  1 | 146.700 | - | CADY11 | N7JN | 131.8 | TSQL | SJCARS Repeater (Cady Mt.) |
 |  2 | 146.100 | + | REV-11 |  | 131.8 | Tone | SJCARS Reverse |
 |  3 | 146.700 |   | DIR-11 |  | 131.8 | TSQL | SJCARS Direct (simplex) |
 |  4 | 146.700 |   | CALL11 | N7JN | 141.3 | TSQL | SJCARS Callup |
-|  5 | 145.250 | - | RPT-12 | N7JN-C | 88.5 |  | SJCARS D-Star Repeater (HVT) |
+|  5 | 145.250 | - | RPT-12 | N7JN-C | 88.5 |  | SJCARS D-Star Repeater (Hillview Terrace) |
 |  6 | 144.650 | + | REV-12 |  | 88.5 |  | SJCARS D-Star Reverse |
 |  7 | 145.250 |   | DIR-12 |  | 88.5 |  | SJCARS D-Star simplex |
 |  10 | 146.520 |   | TAC-10 |  | 131.8 | Tone | National Simplex |
@@ -13,18 +13,19 @@
 |  14 | 145.530 |   | TAC-14 |  | 131.8 | Tone |  |
 |  15 | 146.420 |   | TAC-15 |  | 131.8 | Tone | NBFM repeater ch-2 output |
 |  17 | 147.400 |   | TAC-17 |  | 131.8 | Tone | NBFM repeater ch-1 input |
-|  19 | 146.480 |   | TAC-19 |  | 103.5 | Tone | Statewide Alternate*** |
+|  19 | 146.480 |   | TAC-19 |  | 103.5 | Tone | P-25 QRM from 146.475 |
 |  26 | 144.390 |   | APRS10 |  |   |  | 1200 baud APRS |
 |  27 | 144.350 |   | APRS11 |  |   |  | 9600 baud APRS |
-|  30 | 144.990 |   | NET-11 |  |   |  | AIRMAIL |
-|  31 | 144.950 |   | NET-12 |  |   |  | AIRMAIL |
-|  32 | 145.630 |   | NET-13 |  |   |  | AIRMAIL |
-|  33 | 145.690 |   | NET-14 |  |   |  | AIRMAIL |
-|  34 | 144.970 |   | NET-15 |  |   |  | AIRMAIL |
+|  30 | 144.990 |   | NET-11 |  |   |  | Packet |
+|  31 | 144.950 |   | NET-12 |  |   |  | Packet |
+|  32 | 145.630 |   | NET-13 |  |   |  | Packet |
+|  33 | 145.690 |   | NET-14 |  |   |  | Packet |
+|  34 | 144.970 |   | NET-15 |  |   |  | Packet |
 |  35 | 144.910 |   | NET-16 |  |   |  | N7JN-11 Vusario, N7NIX-10, K7QHQ-10 (via DIGI) |
-|  36 | 144.930 |   | NET-17 |  |   |  | AIRMAIL |
-|  37 | 145.610 |   | NET-18 |  |   |  | AIRMAIL |
-|  38 | 145.050 |   | NET-19 |  |   |  | AIRMAIL |
+|  36 | 144.930 |   | NET-17 |  |   |  | Packet |
+|  37 | 145.610 |   | NET-18 |  |   |  | Packet |
+|  38 | 145.050 |   | NET-19 |  |   |  | Packet |
+|  39 | 145.580 |   | NET-20 |  |   |  | Packet |
 |  50 | 145.130 | - | ANGL11 | WF7W | 100.0 | Tone | Port Angeles |
 |  51 | 145.190 | - | LYMAN1 | N7GDE | 127.3 | Tone | Lyman Hill |
 |  52 | 145.230 | - | SUMAS1 | W7BPD | 103.5 | Tone | Sumas Mt. |
@@ -38,11 +39,11 @@
 |  60 | 145.430 | - | ITS-11 | VA7DGA | 141.3 | Tone | Van. I. Trunk System, Nanaimo, BC |
 |  61 | 146.680 | - | ITS-12 | VE7RNA | 141.3 | Tone | Van. I. Trunk System, Chemainus, BC |
 |  63 | 145.470 | - | SICK11 | VE7RVC | 127.3 | Tone | Duncan, Mt. Sicker |
-|  100 | 144.000 |   | 102120 | N0NE | 88.5 |  | Revision date |
+|  100 | 144.000 |   | 060121 | N0NE | 88.5 |  | Revision date |
 |  101 | 443.450 | + | CADY41 | N7JN | 103.5 | TSQL | SJCARS Repeater |
 |  102 | 448.450 | - | REV-41 | N7JN | 103.5 | Tone | SJCARS reverse |
 |  103 | 443.450 |   | DIR-41 |  | 103.5 | TSQL | SJCARS Direct (simplex) |
-|  104 | 442.4625 | + | RPT-42 | N7JN-B | 88.5 |  | D-Star Repeater (HVT) |
+|  104 | 442.4625 | + | RPT-42 | N7JN-B | 88.5 |  | D-Star Repeater (Hillview Terrace) |
 |  105 | 442.4625 | - | REV-42 |  | 88.5 |  | D-Star Repeater |
 |  106 | 442.4625 |   | DIR-42 |  | 88.5 |  | D-Star Repeater |
 |  110 | 446.000 |   | TAC-40 |  | 156.7 | Tone | National Simplex |
@@ -65,15 +66,19 @@
 |  144 | 444.300 | + | TIGR42 | WA7WKT | 103.5 | Tone | Tiger Mt. |
 |  145 | 444.500 | + | LYMN41 | WA7ZUS | 103.5 | Tone | Lyman Hill |
 |  146 | 444.900 | + | ANGL42 | W6MPD | 107.2 | Tone | Port Angeles |
-|  147 | 442.250 | + | LOOK42 | NC7Q | 156.7 | Tone | Hospital link to LOOK-21 |
+|  147 | 442.250 | + | LOOK42 | NC7Q | 156.7 | Tone | OPS-1 Primary/Hospital link to LOOK-21 |
 |  148 | 443.475 | + | LOPZ41 | KD7KAB | 77.0 | Tone | Lopez |
 |  149 | 444.925 | + | SURV41 | VE7RWS | 100.0 | Tone | Survey Mt. (Can. ARES) |
 |  150 | 442.100 | + | BLYN41 | KC7EQO | 100.0 | Tone | Blyn Mt. (near Sequim) |
 |  152 | 443.300 | + | P-ROB4 | KJ1U | 100.0 | Tone | Pt. Roberts |
 |  153 | 442.600 | + | ITS-41 | VE7RNA | 141.3 | Tone | Van. I. Trunk Sys, BC |
-|  154 | 444.625 | + | CULT41 | NC7Q | 103.5 | Tone | Cultus Mt. east of Mt Vernon |
+|  154 | 444.625 | + | CULT41 | NC7Q | 103.5 | Tone | OPS-1 BACKUP #1 Cultis Mt. |
 |  155 | 444.925 | + | SICK41 |  | 127.3 | Tone | Mt. Sicker, Duncan BC |
-|  156 | 443.475 | + | SEAACS | W7ACS | 141.3 | Tone | Seattle |
+|  156 | 443.475 | + | MAGNOL | W7ACS | 141.3 | Tone | Seattle |
+|  157 | 440.525 | + | BEACN1 | W7ACS | 141.3 | Tone | Seattle |
+|  158 | 440.600 | + | LFPARK | W7ACS | 141.3 | Tone | Seattle |
+|  159 | 443.025 | + | CAPHL1 | W7ACS | 141.3 | Tone | Seattle |
+|  160 | 444.550 | + | COLUMB | WW7SEA | 141.3 | Tone | Seattle |
 |  250 | 155.100 |   | CFIRE |  |   |  |  |
 |  251 | 155.280 |   | SJAID |  |   |  |  |
 |  252 | 154.160 |   | SJTAC3 |  |   |  |  |
