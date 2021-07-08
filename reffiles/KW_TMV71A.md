@@ -79,7 +79,7 @@
 |  158 | 440.600 | + | LFPARK | W7ACS | 141.3 | Tone | Seattle |
 |  159 | 443.025 | + | CAPHL1 | W7ACS | 141.3 | Tone | Seattle |
 |  160 | 444.550 | + | COLUMB | WW7SEA | 141.3 | Tone | Seattle |
-|  250 | 155.100 |   | CFIRE |  |   |  |  |
+|  250 | 155.100 |   | CFIRE |  | 192.8 | Tone |  |
 |  251 | 155.280 |   | SJAID |  |   |  |  |
 |  252 | 154.160 |   | SJTAC3 |  |   |  |  |
 |  253 | 154.385 |   | SJTAC4 |  |   |  |  |
