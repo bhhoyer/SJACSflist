@@ -8,6 +8,7 @@ outfile_name="KW_TMV71A"
 
 function usage() {
    echo "Usage: $scriptname [-n][-k][-a][-A][-h]" >&2
+   echo "   -l  | --logistics HT dualband logistics"
    echo "   -n1 | --noob1     HT triband noob"
    echo "   -n2 | --noob2     HT dualband noob"
    echo "   -k  | --kwtmv71    Kenwood TM-V71a"
@@ -117,6 +118,10 @@ while [[ $# -gt 0 ]] ; do
    key="$1"
 
    case $key in
+      -l|--logistics)
+        infile_name="HTdualband_logistics"
+        outfile_name="HTdualband_logistics"
+	;;
       -n1|--noob1)
         infile_name="HTdualband_noob"
         outfile_name="HTdualband_noob"
@@ -144,6 +149,10 @@ while [[ $# -gt 0 ]] ; do
       -A|--all)
         infile_name="Alinco_DR235"
         outfile_name="AL_DR235"
+        make_markdown
+
+        infile_name="HTdualband_logistics"
+        outfile_name="HTdualband_logistics"
         make_markdown
 
         infile_name="HTdualband_noob"
