@@ -78,7 +78,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 158,LFPARK,440.6,+,5,Tone,141.3,141.3,23,NN,FM,25,,Seattle,W7ACS,,
 159,CAPHL1,443.025,+,5,Tone,141.3,141.3,23,NN,FM,25,,Seattle,W7ACS,,
 160,COLUMB,444.55,+,5,Tone,141.3,141.3,23,NN,FM,25,,Seattle,WW7SEA,,
-250,CFIRE,155.1,,0,,88.5,88.5,23,NN,NFM,5,,,,,
+250,CFIRE,155.1,,0,Tone,192.8,192.8,23,NN,NFM,5,,,,,
 251,SJAID,155.28,,0,,88.5,88.5,23,NN,NFM,5,,,,,
 252,SJTAC3,154.16,,0,,88.5,88.5,23,NN,NFM,5,,,,,
 253,SJTAC4,154.385,,0,,88.5,88.5,23,NN,NFM,5,,,,,
