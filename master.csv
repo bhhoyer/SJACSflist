@@ -72,7 +72,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 150,BLYN41,442.1,+,5,Tone,100,100,23,NN,FM,25,,"Blyn Mt. (near Sequim)",KC7EQO,,
 152,P-ROB4,443.3,+,5,Tone,100,100,23,NN,FM,25,,Pt. Roberts,KJ1U,,
 153,ITS-41,442.6,+,5,Tone,141.3,141.3,23,NN,FM,25,,"Van. I. Trunk Sys, BC",VE7RNA,,
-154,CULT41,444.625,+,5,Tone,103.5,103.5,23,NN,FM,25,,"OPS-1 BACKUP #1 Cultis Mt.",NC7Q,,
+154,CULT41,444.625,+,5,Tone,103.5,103.5,23,NN,FM,25,,"OPS-1 BACKUP #1 Cultus Mt.",NC7Q,,
 155,SICK41,444.925,+,5,Tone,127.3,127.3,23,NN,FM,25,,"Mt. Sicker, Duncan BC",,,
 156,MAGNOL,443.475,+,5,Tone,141.3,141.3,23,NN,FM,25,,Seattle,W7ACS,,
 157,BEACN1,440.525,+,5,Tone,141.3,141.3,23,NN,FM,25,,Seattle,W7ACS,,
