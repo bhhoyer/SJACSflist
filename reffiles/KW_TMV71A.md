@@ -72,17 +72,17 @@
 |  150 | 442.100 | + | BLYN41 | KC7EQO | 100.0 | Tone | Blyn Mt. (near Sequim) |
 |  152 | 443.300 | + | P-ROB4 | KJ1U | 100.0 | Tone | Pt. Roberts |
 |  153 | 442.600 | + | ITS-41 | VE7RNA | 141.3 | Tone | Van. I. Trunk Sys, BC |
-|  154 | 444.625 | + | CULT41 | NC7Q | 103.5 | Tone | OPS-1 BACKUP #1 Cultis Mt. |
+|  154 | 444.625 | + | CULT41 | NC7Q | 103.5 | Tone | OPS-1 BACKUP #1 Cultus Mt. |
 |  155 | 444.925 | + | SICK41 |  | 127.3 | Tone | Mt. Sicker, Duncan BC |
 |  156 | 443.475 | + | MAGNOL | W7ACS | 141.3 | Tone | Seattle |
 |  157 | 440.525 | + | BEACN1 | W7ACS | 141.3 | Tone | Seattle |
 |  158 | 440.600 | + | LFPARK | W7ACS | 141.3 | Tone | Seattle |
 |  159 | 443.025 | + | CAPHL1 | W7ACS | 141.3 | Tone | Seattle |
 |  160 | 444.550 | + | COLUMB | WW7SEA | 141.3 | Tone | Seattle |
-|  250 | 155.100 |   | CFIRE |  | 192.8 | Tone |  |
+|  250 | 155.100 |   | CFIRE |  | 203.5 | Tone |  |
 |  251 | 155.280 |   | SJAID |  |   |  |  |
-|  252 | 154.160 |   | SJTAC3 |  |   |  |  |
-|  253 | 154.385 |   | SJTAC4 |  |   |  |  |
+|  252 | 154.160 |   | SJTAC3 |  | 192.8 | Tone |  |
+|  253 | 154.385 |   | SJTAC4 |  | 192.8 | Tone |  |
 |  254 | 156.385 |   | OSCAR |  |   |  |  |
 |  255 | 151.415 |   | DNR |  |   |  |  |
 |  256 | 154.205 |   | ORFIRE |  |   |  |  |
