@@ -1,4 +1,5 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL
+0,LOPZ41,443.475,+,5,Tone,77,77,23,NN,FM,25,,Lopez,KD7KAB,,
 1,CADY11,146.7,-,0.6,TSQL,131.8,131.8,23,NN,FM,5,,SJCARS Repeater (Cady Mt.),N7JN,,
 2,REV-11,146.1,+,0.6,Tone,131.8,131.8,23,NN,FM,5,,SJCARS Reverse,,,
 3,DIR-11,146.7,,0,TSQL,131.8,131.8,23,NN,FM,5,,SJCARS Direct (simplex),,,
