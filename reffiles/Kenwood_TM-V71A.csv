@@ -88,7 +88,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 257,ORFIRE,155.145,,0,Tone,162.2,162.2,23,NN,NFM,5,,,,,
 258,MED1IN,468.0,,0,,88.5,88.5,23,NN,NFM,5,,,,,
 259,AIRNW3,463.05,,0,,88.5,88.5,23,NN,NFM,5,,,,,
-260,NASWI,149.1,off,0,,88.5,88.5,23,NN,FM,5,,"Navel Air Station",,,
+260,NASWI,149.1,,0,,88.5,88.5,23,NN,FM,5,,"Navel Air Station",,,
 261,DNR,151.415,,0,,88.5,88.5,23,NN,NFM,5,,,,,
 271,SJCOPS,453.25,,0,,88.5,88.5,23,NN,NFM,5,,,,,
 272,MAR16,156.8,,0,,88.5,88.5,23,NN,FM,5,,"Inter. Distress, Safety & Calling",,,
