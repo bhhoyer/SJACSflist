@@ -1,7 +1,7 @@
 REVISION NOTES:
 New 2M # 20 & 38,  New 220 # 17 & 34
 
-SAN JUAN COUNTY ACS FREQUENCY LIST Jan 24, 2024
+SAN JUAN COUNTY ACS FREQUENCY LIST July 5, 2024
 
 VHF FREQUENCIES
     FREQ   OFS ID      CALL   TONE     PL    QTH/NOTES
@@ -29,7 +29,7 @@ VHF FREQUENCIES
  35 144.910   NET-16   N7JN-11               Vusario, N7NIX-10, K7QHQ-10 (via DIGI)
  36 144.930   NET-17                         Packet, N7RDE-10
  37 145.610   NET-18                         Packet
- 38 144.930   HSPPK1	                     DMCC P2P Winlink (Primary)
+ 38 144.930   HSPPK1                         DMCC P2P Winlink (Primary)
  50 145.130 - ANGL11   WF7W   PL-100.0       Port Angeles
  51 145.190 - LYMAN1   N7GDE  PL 127.3       Lyman Hill
  52 145.230 - SUMAS1   W7BPD  PL-103.5       Sumas
@@ -55,7 +55,7 @@ VHF FREQUENCIES
  14 224.000   TAC-24          PL-67    TX
  15 223.420   TAC-25          PL-103.5 TX    Statewide simplex primary
  16 223.440   TAC-26          PL-103.5 TX    Statewide simplex alternate
- 17 223.440   HPSX2	      PL-162.2 TX    DMCC
+ 17 223.440   HPSX2           PL-162.2 TX    DMCC
  30 223.780   NET-21   N7JN-11               Vusario, WL2K Gateway KF7FIT-10
  31 223.660   NET-22                         Packet
  32 223.400   NET-23                         Packet
@@ -71,7 +71,7 @@ VHF FREQUENCIES
  57 224.060 - ANGL21   W6MPD  PL-107.2 TX    Port Angeles
  58 224.860 - KING-2   N7FYU  PL-103.5 TX    King Mt.
  59 224.880 - MAPL-2   VE7RMR CS *           Maple Ridge BC
- 60
+ 60 223.860 - MED-21   K7OET  PL-103.5 TX-RX Cultus Mt.  DMCC
  61 224.960 - BRNBY2   VE7VYL CS *           Burnaby BC
  62 224.540 - VUE-21   WA6MPG PL-067.0 TX    Vusario
  63 224.160 - LOOK-2   NC7Q   PL-156.7 TX    Hospital link to LOOK-42
@@ -82,38 +82,38 @@ VHF FREQUENCIES
  69 223.960 - SUREY2   VE7RHC PL-110.0 TX    Surrey BC
 
 UHF FREQUENCIES
-    FREQ   OFS ID     CALL   TONE PL        QTH/NOTES
-101 443.450 + CADY41  N7JN   PL-103.5 TX-RX SJCARS Repeater
-102 448.450 - REV-41         PL-103.5 TX    SJCARS Reverse
-103 443.450   DIR-41         PL-103.5 TX-RX SJCARS Direct (simplex)
-104 442.4625+ RPT-42  N7JN-B                SJCARS D-STAR Repeater (Hillview Terrace)
-105 447.4625- REV-42                        SJCARS D-STAR Reverse
-106 442.4625  DIR-42                        SJCARS D-STAR Direct
-110 446.000   TAC-40         PL-156.7 TX    NATIONAL SIMPLEX
+    FREQ   OFS ID     CALL   TONE PL         QTH/NOTES
+101 443.450 + CADY41  N7JN   PL-103.5 TX-RX  SJCARS Repeater
+102 448.450 - REV-41         PL-103.5 TX     SJCARS Reverse
+103 443.450   DIR-41         PL-103.5 TX-RX  SJCARS Direct (simplex)
+104 442.4625+ RPT-42  N7JN-B                 SJCARS D-STAR Repeater (Hillview Terrace)
+105 447.4625- REV-42                         SJCARS D-STAR Reverse
+106 442.4625  DIR-42                         SJCARS D-STAR Direct
+110 446.000   TAC-40         PL-156.7 TX     NATIONAL SIMPLEX
 111 446.500   TAC-41         PL-156.7 TX
 112 441.000   TAC-42         PL-156.7 TX
 113 441.500   TAC-43         PL-156.7 TX
-114 445.825   TAC-44         PL-103.5 TX    Statewide simplex primary
-115 445.800   TAC-45         PL-103.5 TX    Statewide simplex alternate
-131 441.500   NET-41                        Packet shared with voice
-132 445.000   NET-42                        Packet
-133 439.900   NET-43                        Packet
-134 439.950   NET-44                        Packet
-135 440.125   NET-45                        WL2K gateway K7KCA-10
-140 442.400 + BLAIN4  W7UMH  PL-107.2 TX    Lyman Hill
+114 445.825   TAC-44         PL-103.5 TX     Statewide simplex primary
+115 445.800   TAC-45         PL-103.5 TX     Statewide simplex alternate
+131 441.500   NET-41                         Packet shared with voice
+132 445.000   NET-42                         Packet
+133 439.900   NET-43                         Packet
+134 439.950   NET-44                         Packet
+135 440.125   NET-45                         WL2K gateway K7KCA-10
+140 442.400 + BLAIN4  W7UMH  PL-107.2 TX     Lyman Hill
 141
-142 443.750 + SQAL41  WA7ZWG PL-103.5 TX    Squalicum Mt.
-143 444.050 + CONIE4  K7SKW  PL-103.5 TX    Mt. Constitution
-144 444.300 + TIGR42  WA7WKT PL-103.5 TX    Tiger Mt.
-145 444.500 + LYMN41  WA7ZUS PL-103.5 TX    Lyman Hill
-146 444.900 + ANGL42  W6MPD  PL-107.2 TX    Port Angeles
-147 442.250 + LOOK42  NC7Q   PL-156.7 TX    OPS-1 Backup#1/Hospital link to LOOK-21
-148 443.475 + LOPZ41  KD7KAB PL-077.0 TX    Lopez
-149 444.925 + SURV41  VE7RWS PL-100.0 TX    Survey Mt. (Canadian ARES)
-150 442.100 + BLYN41  KC7EQO PL-100.0 TX    Blyn Mt. (near Sequem)
-152 443.300 + P-ROB4  KJ1U   PL-100.0 TX    Point Roberts
-153 442.600 + ITS-41  VE7RNA PL-141.3 TX    Vancouver I. Trunk System, BC
-154 444.625 + CULT41  NC7Q   PL-103.5 TX    OPS-1 Backup #1, Cultis Mt.
+142 443.750 + SQAL41  WA7ZWG PL-103.5 TX     Squalicum Mt.
+143 444.050 + CONIE4  K7SKW  PL-103.5 TX     Mt. Constitution
+144 444.300 + TIGR42  WA7WKT PL-103.5 TX     Tiger Mt.
+145 444.500 + LYMN41  WA7ZUS PL-103.5 TX     Lyman Hill
+146 444.900 + ANGL42  W6MPD  PL-107.2 TX     Port Angeles
+147 442.250 + LOOK42  NC7Q   PL-156.7 TX     OPS-1 Backup #1/Hospital link to LOOK-21
+148 443.475 + LOPZ41  KD7KAB PL-077.0 TX     Lopez
+149 444.925 + SURV41  VE7RWS PL-100.0 TX     Survey Mt. (Canadian ARES)
+150 442.100 + BLYN41  KC7EQO PL-100.0 TX     Blyn Mt. (near Sequem)
+152 443.300 + P-ROB4  KJ1U   PL-100.0 TX     Point Roberts
+153 442.600 + ITS-41  VE7RNA PL-141.3 TX     Vancouver I. Trunk System, BC
+154 444.625 + CULT41  NC7Q   PL-103.5 TX     OPS-1 Primary, Cultis Mt.
 
 WHITE BOX IC-706 HF MEMORY CHANNEL LIST
   1     3985.0  LSB   WA . State Emergency Net (WSEN)
