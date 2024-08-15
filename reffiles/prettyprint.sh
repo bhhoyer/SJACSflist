@@ -32,7 +32,8 @@ function make_markdown() {
     # sed -i -e '1 s/^.*$/Loc,ID,Frequency,OFS,Offset,PL,rTone,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,CALL,RPT1CALL,RPT2CALL/' $outfile_tmp
 
     echo "csv tool start"
-    csvtool col 1,3,4,2,15,7,6,14 ${infile_name}.csv  > $outfile_tmp
+#    csvtool col 1,3,4,2,15,7,6,14 ${infile_name}.csv  > $outfile_tmp
+    csvtool -c 1,3,4,2,15,7,6,14 ${infile_name}.csv  > $outfile_tmp
     sed -i -e '1 s/^.*$/Loc,Freq,OFS,ID,Call,Tone,PL,Comment/' $outfile_tmp
     sed -i 2i' --- , ---- , :---: , ---, :---:, -- , ---, ------- ' $outfile_tmp
     echo "csv tool end"
