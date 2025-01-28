@@ -9,6 +9,7 @@ outfile_name="KW_TMV71A"
 function usage() {
    echo "Usage: $scriptname [-n][-k][-a][-A][-h]" >&2
    echo "   -l  | --logistics HT dualband logistics"
+   echo "   -L  | --logistics HT dualband with airport beacon"
    echo "   -n1 | --noob1     HT triband noob"
    echo "   -n2 | --noob2     HT dualband noob"
    echo "   -k  | --kwtmv71    Kenwood TM-V71a"
@@ -123,11 +124,15 @@ while [[ $# -gt 0 ]] ; do
         infile_name="HTdualband_logistics"
         outfile_name="HTdualband_logistics"
 	;;
-      -n1|--noob1)
+      -L)
+        infile_name="HTdualband_logbeac"
+        outfile_name="HTdualband_logbeac"
+	;;
+      -n2|--noob2)
         infile_name="HTdualband_noob"
         outfile_name="HTdualband_noob"
 	;;
-      -n2|--noob2)
+      -n1|--noob1)
         infile_name="HTtriband_noob"
         outfile_name="HTtriband_noob"
 	;;
