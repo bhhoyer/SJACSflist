@@ -1,5 +1,6 @@
 | Loc|Freq|OFS|ID|Call|Tone|PL|Comment |
 | --- | ---- | :---: | ---| :---:| -- | ---| -------  |
+|  0 | 443.475 | + | LOPZ41 | KD7KAB | 77.0 | Tone | Lopez |
 |  1 | 146.700 | - | CADY11 | N7JN | 131.8 | TSQL | SJCARS Repeater (Cady Mt.) |
 |  2 | 146.100 | + | REV-11 |  | 131.8 | Tone | SJCARS Reverse |
 |  3 | 146.700 |   | DIR-11 |  | 131.8 | TSQL | SJCARS Direct (simplex) |
@@ -14,6 +15,7 @@
 |  15 | 146.420 |   | TAC-15 |  | 131.8 | Tone | NBFM repeater ch-2 output |
 |  17 | 147.400 |   | TAC-17 |  | 131.8 | Tone | NBFM repeater ch-1 input |
 |  19 | 146.480 |   | TAC-19 |  | 103.5 | Tone | P-25 QRM from 146.475 |
+|  20 | 147.540 |   | HPSX1 |  | 88.5 |  | DMCC |
 |  26 | 144.390 |   | APRS10 |  |   |  | 1200 baud APRS |
 |  27 | 144.350 |   | APRS11 |  |   |  | 9600 baud APRS |
 |  30 | 144.990 |   | NET-11 |  |   |  | Packet |
@@ -26,6 +28,7 @@
 |  37 | 145.610 |   | NET-18 |  |   |  | Packet |
 |  38 | 145.050 |   | NET-19 |  |   |  | Packet |
 |  39 | 145.580 |   | NET-20 |  |   |  | Packet |
+|  40 | 144.930 |   | HSPPK1 |  | 88.5 |  | DMCC P2P Winlink (Primary) |
 |  50 | 145.130 | - | ANGL11 | WF7W | 100.0 | Tone | Port Angeles |
 |  51 | 145.190 | - | LYMAN1 | N7GDE | 127.3 | Tone | Lyman Hill |
 |  52 | 145.230 | - | SUMAS1 | W7BPD | 103.5 | Tone | Sumas Mt. |
@@ -39,7 +42,7 @@
 |  60 | 145.430 | - | ITS-11 | VA7DGA | 141.3 | Tone | Van. I. Trunk System, Nanaimo, BC |
 |  61 | 146.680 | - | ITS-12 | VE7RNA | 141.3 | Tone | Van. I. Trunk System, Chemainus, BC |
 |  63 | 145.470 | - | SICK11 | VE7RVC | 127.3 | Tone | Duncan, Mt. Sicker |
-|  100 | 144.000 |   | 060121 | N0NE | 88.5 |  | Revision date |
+|  100 | 144.000 |   | 012424 | N0NE | 88.5 |  | Revision date |
 |  101 | 443.450 | + | CADY41 | N7JN | 103.5 | TSQL | SJCARS Repeater |
 |  102 | 448.450 | - | REV-41 | N7JN | 103.5 | Tone | SJCARS reverse |
 |  103 | 443.450 |   | DIR-41 |  | 103.5 | TSQL | SJCARS Direct (simplex) |
@@ -79,24 +82,25 @@
 |  158 | 440.600 | + | LFPARK | W7ACS | 141.3 | Tone | Seattle |
 |  159 | 443.025 | + | CAPHL1 | W7ACS | 141.3 | Tone | Seattle |
 |  160 | 444.550 | + | COLUMB | WW7SEA | 141.3 | Tone | Seattle |
-|  250 | 155.100 |   | CFIRE |  | 203.5 | Tone |  |
-|  251 | 155.280 |   | SJAID |  |   |  |  |
-|  252 | 154.160 |   | SJTAC3 |  | 192.8 | Tone |  |
-|  253 | 154.385 |   | SJTAC4 |  | 192.8 | Tone |  |
-|  254 | 156.385 |   | OSCAR |  |   |  |  |
-|  255 | 151.415 |   | DNR |  |   |  |  |
-|  256 | 154.205 |   | ORFIRE |  | 192.8 |  |  |
-|  257 | 153.830 |   | REDNET |  |   |  |  |
+|  250 | 155.100 |   | CFIRE |  | 173.8 | Tone |  |
+|  252 | 155.010 |   | SJTAC3 |  | 192.8 | Tone |  |
+|  253 | 155.280 |   | SJTAC4 |  | 192.8 | Tone |  |
+|  254 | 153.830 |   | SJTAC5 |  | 203.5 | Tone |  |
+|  255 | 156.1575 |   | COUNTY |  | 141.3 | Tone |  |
+|  256 | 156.385 |   | OSCAR |  |   |  |  |
+|  257 | 155.145 |   | ORFIRE |  | 162.2 | Tone |  |
 |  258 | 468.000 |   | MED1IN |  |   |  |  |
 |  259 | 463.050 |   | AIRNW3 |  |   |  |  |
-|  260 | 453.250 |   | SJCOPS |  |   |  |  |
-|  261 | 156.800 |   | MAR16 |  |   |  | Inter. Distress, Safety & Calling |
-|  262 | 162.475 |   | WX03 |  |   |  |  |
-|  263 | 162.425 |   | WX04 |  |   |  |  |
-|  264 | 128.250 |   | SJCTAF |  |   |  | SJC Common Traffic Advisory Frequency |
-|  265 | 121.500 |   | AVBEAC |  |   |  | Aviation ELT Beacon |
-|  266 | 121.775 |   | AVTBEA |  |   |  | Aviation Training Beacon |
-|  267 | 135.675 |   | FH WX |  |   |  | Friday Harbor Airport weather |
+|  260 | 149.100 |   | NASWI |  |   |  | Navel Air Station |
+|  261 | 151.415 |   | DNR |  |   |  |  |
+|  271 | 453.250 |   | SJCOPS |  |   |  |  |
+|  272 | 156.800 |   | MAR16 |  |   |  | Inter. Distress, Safety & Calling |
+|  273 | 162.475 |   | WX03 |  |   |  |  |
+|  274 | 162.425 |   | WX04 |  |   |  |  |
+|  275 | 128.250 |   | SJCTAF |  |   |  | SJC Common Traffic Advisory Frequency |
+|  277 | 121.500 |   | AVBEAC |  |   |  | Aviation ELT Beacon |
+|  278 | 121.775 |   | AVTBEA |  |   |  | Aviation Training Beacon |
+|  279 | 135.675 |   | FH WX |  |   |  | Friday Harbor Airport weather |
 |  300 | 151.040 |   | FERRY |  |   |  |  |
 
 ```
