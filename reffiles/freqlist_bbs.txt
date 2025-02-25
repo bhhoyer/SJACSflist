@@ -1,7 +1,7 @@
 REVISION NOTES:
 New 2M # 20 & 38,  New 220 # 17 & 34
 
-SAN JUAN COUNTY ACS FREQUENCY LIST July 5, 2024
+SAN JUAN COUNTY ACS FREQUENCY LIST Jan 23, 2025
 
 VHF FREQUENCIES
     FREQ   OFS ID      CALL   TONE     PL    QTH/NOTES
@@ -14,8 +14,8 @@ VHF FREQUENCIES
   7 145.250   DIR-12                         SJCARS D-STAR Simplex
  10 146.520   TAC-10          PL-131.8 TX    NATIONAL SIMPLEX, REG-1 103.5
  11 144.310   TAC-11          PL-131.8 TX
- 12 146.580   TAC-12                         New Tac-12 ???
- 13 146.540   TAC-13          PL-131.8 TX
+ 12 146.580   TAC-12          PL-131.8 TX
+ 13 146.540   TAC-13          PL-131.8 TX    digital QRM 240908
  14 145.530   TAC-14          PL-131.8 TX    2.4kHz VE7CHO sig 210703 24/7
  15 146.420   TAC-15          PL-131.8 TX
  17 147.400   TAC-17          PL-131.8 TX
@@ -30,13 +30,13 @@ VHF FREQUENCIES
  36 144.930   NET-17                         Packet, N7RDE-10
  37 145.610   NET-18                         Packet
  38 144.930   HSPPK1                         DMCC P2P Winlink (Primary)
- 50 145.130 - ANGL11   WF7W   PL-100.0       Port Angeles
- 51 145.190 - LYMAN1   N7GDE  PL 127.3       Lyman Hill
- 52 145.230 - SUMAS1   W7BPD  PL-103.5       Sumas
+ 50
+ 51 145.190 - LYMAN1   N7GDE  PL-127.3       Lyman Hill
+ 52 145.230 - BLAIN1   W7BPD  PL-103.5       Blaine
  53 146.620 - GOLD11   WW7RA  PL-103.5       Gold Mountain (QRM from 146.61)
  54 146.740 - CONIE1   K7SKW  PL-103.5       Mt. Constitution
  55 146.900 - W-ROK1   VE7RWR PL-091.5       White Rock, BC
- 56 146.860 - OAKHB1   W7AVM  PL-127.3       Oak Harbor
+ 56 146.860 - COUP11   W7AVM  PL-127.3       Coupville
  57 146.920 - GRNIT1   WA7DEM PL-123.0       Granite Falls
  58 147.160 + KING11   K7SKW  PL-103.5       King Mt.IRLP-3276
  59 145.150 - TOWNS1   W7JCR  PL-114.8       Port Townsend
@@ -63,20 +63,21 @@ VHF FREQUENCIES
  34 223.460   HSPPK2                         DMCC P2P Winlink (Secondary)
  50 223.860 - MED-21   W7MBY  PL-103.5 TX    Hospital net repeater
  51 224.120 - TIGR21   K7LED  PL-103.5 TX    Tiger Mt.
- 52 224.240 - BLYN21   N7NFY  PL-103.5 TX    Haystack (was Blyn)
+ 52 224.240 - SULT21   N7NFY  PL-103.5 TX    Sultan
  53 224.300 - VANC21   VE7RPT CS *           Vancouver BC
  54 224.500 - VICT21   VE7RGP CS *           Victoria BC
  55 224.600 - BRNBY2   VE7NYE PL-127.3 TX    Burnaby BC
- 56 224.660 - GOLD21   N7IPB  PL-103.5 TX    Gold Mt.
+ 56
  57 224.060 - ANGL21   W6MPD  PL-107.2 TX    Port Angeles
- 58 224.860 - KING-2   N7FYU  PL-103.5 TX    King Mt.
+ 58
  59 224.880 - MAPL-2   VE7RMR CS *           Maple Ridge BC
  60 223.860 - MED-21   K7OET  PL-103.5 TX-RX Cultus Mt.  DMCC
  61 224.960 - BRNBY2   VE7VYL CS *           Burnaby BC
  62 224.540 - VUE-21   WA6MPG PL-067.0 TX    Vusario
  63 224.160 - LOOK-2   NC7Q   PL-156.7 TX    Hospital link to LOOK-42
- 64 224.780 - LYMN-2   N7RIG  PL-103.5 TX    Lyman Hill, link to WETNET
- 65 224.580 - HAY-21   W7WRG  PL-103.5 TX    Haystack, link to WETNET
+ 64
+ 65
+ 66
  67 223.880 - CAMNO2   W7PIG  PL-103.5 TX    Camano Island
  68 224.380 - SMOKY2   WA7DEM PL-103.5 TX    Smokey Point
  69 223.960 - SUREY2   VE7RHC PL-110.0 TX    Surrey BC
@@ -100,20 +101,21 @@ UHF FREQUENCIES
 133 439.900   NET-43                         Packet
 134 439.950   NET-44                         Packet
 135 440.125   NET-45                         WL2K gateway K7KCA-10
-140 442.400 + BLAIN4  W7UMH  PL-107.2 TX     Lyman Hill
+140
 141
-142 443.750 + SQAL41  WA7ZWG PL-103.5 TX     Squalicum Mt.
+142 443.750 + LOOK41  K7SKW  PL-103.5 TX     Lookout Mt.
 143 444.050 + CONIE4  K7SKW  PL-103.5 TX     Mt. Constitution
-144 444.300 + TIGR42  WA7WKT PL-103.5 TX     Tiger Mt.
-145 444.500 + LYMN41  WA7ZUS PL-103.5 TX     Lyman Hill
+144
+145 444.500 + LYMN41  WA7ZUS PL-103.5 TX     Lyman Hill  FM / P-25
 146 444.900 + ANGL42  W6MPD  PL-107.2 TX     Port Angeles
-147 442.250 + LOOK42  NC7Q   PL-156.7 TX     OPS-1 Backup #1/Hospital link to LOOK-21
+147 442.250 + LOOK42  W7ECG  PL-156.7 TX     Lookout Mt.
 148 443.475 + LOPZ41  KD7KAB PL-077.0 TX     Lopez
-149 444.925 + SURV41  VE7RWS PL-100.0 TX     Survey Mt. (Canadian ARES)
-150 442.100 + BLYN41  KC7EQO PL-100.0 TX     Blyn Mt. (near Sequem)
-152 443.300 + P-ROB4  KJ1U   PL-100.0 TX     Point Roberts
+149
+150
+151
+152
 153 442.600 + ITS-41  VE7RNA PL-141.3 TX     Vancouver I. Trunk System, BC
-154 444.625 + CULT41  NC7Q   PL-103.5 TX     OPS-1 Primary, Cultis Mt.
+154 444.625 + VERN41  NC7Q   PL-103.5 TX     OPS-1 Mt. Vernon
 
 WHITE BOX IC-706 HF MEMORY CHANNEL LIST
   1     3985.0  LSB   WA . State Emergency Net (WSEN)
