@@ -34,7 +34,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 53,GOLD11,146.62,-,0.6,Tone,103.5,103.5,23,NN,FM,5,,Gold Mt. Unusable (Cdn 146.61/110.9),WW7RA,,
 54,CONIE1,146.74,-,0.6,Tone,103.5,103.5,23,NN,FM,5,,Mt. Constitution,K7SKW,,
 55,W-ROK1,146.90,-,0.6,Tone,91.5,91.5,23,NN,FM,5,,"White Rock, BC",VE7RWR,,
-56,OAKHB1,146.8625,-,0.6,Tone,114.8,114.8,23,NN,NFM,25,,Oak Harbor,W7AVM,,
+56,OAKHB1,146.8625,-,0.6,Tone,114.8,114.8,23,NN,NFM,6.25,,Oak Harbor,W7AVM,,
 57,GRNIT1,146.925,-,0.6,Tone,156.7,156.7,23,NN,NFM,25,,Granite Falls,WA7DEM,,
 58,KING11,147.16,+,0.6,Tone,103.5,103.5,23,NN,FM,5,,King Mt. IRLP-3276,K7SKW,,
 59,TOWNS1,145.15,-,0.6,Tone,114.8,114.8,23,NN,FM,5,,"Port Townsend, Morgan Hill",W7JCR,,
